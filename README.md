@@ -11,7 +11,9 @@ my upcoming Python class.
 
 
 -----
+##Level 2 (h2) heading
 
+-----
 
 ```javascript
 function fancyAlert(arg) {
