@@ -20,3 +20,10 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+------
+
+*Italic*
+**BOLD**
+
+_italic and **bold**_
