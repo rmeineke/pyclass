@@ -8,3 +8,15 @@ my upcoming Python class.
     * Exercise A
     * Exercise B
 2. Week Two
+
+
+-----
+
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
