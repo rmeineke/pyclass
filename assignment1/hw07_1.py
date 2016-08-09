@@ -1,37 +1,35 @@
 # hw07_1.py
-"""Check to see if a string meets
-proper Python strictures. Returns
-a tuple value (True or False, return_str).
-
-(True, "Valid!") for example
+"""Check to see if a string identifier meets proper Python strictures.
 """
-    
+
+import keyword
+
 
 def IsValidIdentifier(s):
-"""Check validity of python identifier.
-
-Args:
-    param1 (str): The first parameter.
-
-Returns:
-    tuple: The return value. True for success, False otherwise.
-    Return also includes explanatory string.
-    (True, "Valid!") for example"""
+    """Check validity of python identifier.
     
-    return_str = ''
+    Args:
+        param1 (str): The string to check for validity.
     
-    # test for keywords
-    if keyword:
-        return_str = 'Invalid: this is a keyword!'
-        pass
-        
-    # test for question marks
-    elif str[0] not '_' or srt[0]:
-        return_str = 'Invalid: first symbol must be alphabetic or underscore.'
+    Returns:
+        tuple: Returns True for success, False for failure and 
+        includes an explanatory string.
+        (True, "Valid!") for example."""
 
-    elif has bad char:
-        return_str = 'Invalid: ’?’ is not allowed.'
-        
-    else:
-        return (True, 'Valid!')
-        
+    # look for illegal characters
+    for char in s:
+        if char != '_' and not char.isalnum():
+            return False, "{:>20} -> Invalid: '{}' is not allowed.".format(s, char)
+
+    # check for keywords
+    if keyword.iskeyword(s):
+        return False, '{:>20} -> Invalid: this is a keyword!'.format(s)
+
+    # if the first character is a number return false
+    if s[0].isdigit():
+        return False, '{:>20} -> Invalid: first symbol must be alphabetic or underscore'.format(s)
+
+    # make sure that the first character is a letter or is
+    # an underscore
+    if s[0].isalpha() or s[0] == '_':
+        return True, '{:>20} -> Valid!'.format(s)
