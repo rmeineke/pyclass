@@ -1,0 +1,124 @@
+Review 3/labs 7-8
+
+Question 1 of 10
+10.0 Points
+You want to name your python module with a ".py" extension 
+for several reasons. Which of the reasons given below is nonsense?
+
+  A. So that the OS knows it's a Python module. 	
+  B. So that it is importable. 	
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  C. So that Java stays out of your code. 	
+  D. So that your development environment knows it's a python module. 	Reset Selection
+
+
+
+Question 2 of 10
+10.0 Points
+The module hotdog.py has an internal name. It is never:
+  A. "hotdog" 	
+  B. "__main__" 	
+  C. "hotdog.py" 	Reset Selection
+
+
+
+Question 3 of 10
+10.0 Points
+The identifier in every module that labels the internal name of the module is:
+  A. __name__ 	
+  B. __main__ 	
+  C. __module__ 	Reset Selection
+
+
+
+Question 4 of 10
+10.0 Points
+Your want to introspect the smtp module. Which is not useful:
+
+  A. help("smtp")
+  B. import smtp
+  C. dir(smtp)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>  D. browse(smtp)
+
+
+
+Question 5 of 10
+10.0 Points
+You have this:  some = (18, 3) 
+
+Which will result with:  some = (18, 3, 2) 
+ 
+
+  A. some.append(2) 	
+  >>>>>>>>>>>>>>>>>>> B. some += 2, 	
+  C. some = some + 2 	
+  D. some += '2' 	Reset Selection
+
+
+
+Question 6 of 10
+10.0 Points
+Consider the attached.
+
+Which call below will not work?
+
+  A. workshop.Make(3, "ball", "blue") 	
+  B. workshop.Make() 	
+  C. workshop.Make(toy_type='doll', number=3) 	Reset Selection
+
+
+
+Question 7 of 10
+10.0 Points
+The sys module does not give you:
+  A. a list of the strings on the command line. 	
+  B. the random number generator. 	
+  C. a way to write directly to stdout, skipping the print facility. 	
+  D. an opportunity to read directly from stdin. 	Reset Selection
+
+
+
+Question 8 of 10
+10.0 Points
+In the loop construction:
+
+for result in enumerate('hi'): 
+    print result
+
+which is not true?
+
+  A. the loop goes around twice. 	
+  B. each result has two values. 	
+  C. each result[1] is a string. 	
+ >>>>>>>>>>>>>>>>>>>>>>>>>>> D. the code will crash.
+
+
+
+Question 9 of 10
+10.0 Points
+Consider:
+
+value = reduce(lambda x,y:3, (1, 2, 3))
+
+What is the resulting value? 
+ 
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  A. 3 	
+  B. 6 	
+  C. 9 	
+  D. 0 	Reset Selection
+
+
+
+Question 10 of 10
+10.0 Points
+print '@'.join(["%s" % (x) for x in range(3)])
+
+will produce which answer?
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  A. 0@1@2 	
+  B. 1@2@3 	
+  C. @123 	
+  D. @012 	
+  
+  
+  
