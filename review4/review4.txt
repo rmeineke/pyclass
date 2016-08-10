@@ -1,0 +1,151 @@
+ 
+Review 1: Labs 1, 2, 3
+Review 2: Labs 4, 5, 6
+Review 3: Labs 7, 8
+Review 4: Labs 9, 10
+Review 5: Labs 11, 12
+Review 6: Labs 13, 14
+Review 7: Labs 15, 16
+Review 8: Labs 17, 18
+
+
+Part 1 of 1 -
+
+Question 1 of 10
+10.0 Points
+Which of these "something"s can not be a dictionary?
+
+  A. something[[1,2]]
+  B. something[3]
+  C. something["Sweden"]
+  D. for each in something:
+
+
+
+Question 2 of 10
+10.0 Points
+After doing this:
+
+dict1.update(dict2)
+
+all the below are right except one.  Which one is wrong?
+
+  A. The values in dict1 will be in dict2.
+  B. The keys in dict2 will all be in dict1.
+  C. The values in dict2 will be in dict1.
+
+
+
+
+Question 3 of 10
+10.0 Points
+Consider this:
+
+for name in sorted(name_dict): 
+    print name.capitalize(), ":", name_dict[name]
+
+After this loop, which is true? I am not asking about 
+output, only about consequences to the dictionary itself.
+
+  A. name_dict will be sorted by the keys.
+  B. name_dict will be sorted by the values.
+  C. the keys in name_dict will be capitalized.
+  D. None of the others.
+
+
+
+
+Question 4 of 10
+10.0 Points
+The keyword "raise" is useful for:
+
+  A. changing characters to be upper case. 	
+  B. causing a traceback. 	
+  C. moving a block of code to the top of the module. 	
+  D. increasing the font.
+
+
+
+
+
+
+Question 5 of 10
+10.0 Points
+for thing in open('story.txt'):
+    print thing 
+
+thing is:
+
+  A. the length of the string "story.txt" 	
+  B. a character from the file "story.txt". 	
+  C. a word of text from the file "story.txt". 	
+  D. a character from the string "story.txt". 	
+  E. a line of text from the file "story.txt".
+
+
+
+
+Question 6 of 10
+10.0 Points
+With the keyword "try" can be associated with each of the following words except:
+
+  A. else
+  B. elif
+  C. finally
+  D. except
+ 
+ 
+
+Question 7 of 10
+10.0 Points
+When opening a file, the second argument is "mode". Which is a list of popular modes?
+
+  A. block, wait, stall 	
+  B. read, write, append 	
+  C. open, close, defer 
+
+
+
+Question 8 of 10
+10.0 Points
+x = len(open("my.txt").read().split())
+
+In the above code, which is a descriptive and 
+truthful identifier to use instead of x?
+
+  A. length_of_file
+  B. maximum_characters
+  C. number_of_words
+  D. number_of_lines
+
+
+
+Question 9 of 10
+10.0 Points
+To write this code:
+
+os.path.join(os.path.split("Usrs/Joe/Documents")[-1], 'work')
+
+your first need to: 
+ 
+  A. importing is not necessary here. 	
+  B. import os
+  C. import path
+  D. import os.path.split
+
+
+
+Question 10 of 10
+10.0 Points
+file_object = open("my.txt", "w")
+
+If, when you are finished with that file, if you don't:
+
+file_object.close()
+
+what will happen?
+
+  A. The file will continue to add more text, even when your program ends. 	
+  B. It will always close automatically when the current function has ended. 	
+  C. It will always close automatically when your program ends. 	
+  D. It will crash.
