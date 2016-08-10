@@ -1,13 +1,5 @@
- 
-Review 1: Labs 1, 2, 3
-Review 2: Labs 4, 5, 6
-Review 3: Labs 7, 8
-Review 4: Labs 9, 10
-Review 5: Labs 11, 12
-Review 6: Labs 13, 14
-Review 7: Labs 15, 16
-Review 8: Labs 17, 18
 
+Review 4: Labs 9, 10
 
 Part 1 of 1 -
 
@@ -15,7 +7,7 @@ Question 1 of 10
 10.0 Points
 Which of these "something"s can not be a dictionary?
 
-  A. something[[1,2]]
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>A. something[[1,2]]
   B. something[3]
   C. something["Sweden"]
   D. for each in something:
@@ -30,7 +22,7 @@ dict1.update(dict2)
 
 all the below are right except one.  Which one is wrong?
 
-  A. The values in dict1 will be in dict2.
+  ,.>>>>>>>>>>>>>>>>>>>> A. The values in dict1 will be in dict2.
   B. The keys in dict2 will all be in dict1.
   C. The values in dict2 will be in dict1.
 
@@ -50,7 +42,7 @@ output, only about consequences to the dictionary itself.
   A. name_dict will be sorted by the keys.
   B. name_dict will be sorted by the values.
   C. the keys in name_dict will be capitalized.
-  D. None of the others.
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> D. None of the others.
 
 
 
@@ -60,7 +52,7 @@ Question 4 of 10
 The keyword "raise" is useful for:
 
   A. changing characters to be upper case. 	
-  B. causing a traceback. 	
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> B. causing a traceback. 	
   C. moving a block of code to the top of the module. 	
   D. increasing the font.
 
@@ -80,7 +72,7 @@ thing is:
   B. a character from the file "story.txt". 	
   C. a word of text from the file "story.txt". 	
   D. a character from the string "story.txt". 	
-  E. a line of text from the file "story.txt".
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> E. a line of text from the file "story.txt".
 
 
 
@@ -90,7 +82,7 @@ Question 6 of 10
 With the keyword "try" can be associated with each of the following words except:
 
   A. else
-  B. elif
+ >>>>>>>>>>>>>>>>>>>>>>>>>> B. elif
   C. finally
   D. except
  
@@ -101,7 +93,7 @@ Question 7 of 10
 When opening a file, the second argument is "mode". Which is a list of popular modes?
 
   A. block, wait, stall 	
-  B. read, write, append 	
+ >>>>>>>>>>>>>>>>>>>>>>>>> B. read, write, append 	
   C. open, close, defer 
 
 
@@ -115,7 +107,7 @@ truthful identifier to use instead of x?
 
   A. length_of_file
   B. maximum_characters
-  C. number_of_words
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> C. number_of_words
   D. number_of_lines
 
 
@@ -129,7 +121,7 @@ os.path.join(os.path.split("Usrs/Joe/Documents")[-1], 'work')
 your first need to: 
  
   A. importing is not necessary here. 	
-  B. import os
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>B. import os
   C. import path
   D. import os.path.split
 
@@ -147,5 +139,5 @@ what will happen?
 
   A. The file will continue to add more text, even when your program ends. 	
   B. It will always close automatically when the current function has ended. 	
-  C. It will always close automatically when your program ends. 	
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>C. It will always close automatically when your program ends. 	
   D. It will crash.
