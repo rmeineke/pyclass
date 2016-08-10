@@ -1,0 +1,168 @@
+Title	Assignment 3 (lab 11) Draft
+Due	Oct 5, 2016 11:55 pm
+Please complete Labs 1-11 before attempting this assignment.
+
+
+For maximum credit, follow the style_guide.pdf in "Resources", and show 
+the output from running your code.
+
+  Assignment 3 Lab 11
+
+ 
+
+Use the builtin  chr function to make a  GiveAsciiChart function 
+that returns a string that, when printed, is an ascii chart, four 
+entries across. Only use the  ascii values from 32 to 126, inclusive
+ 
+
+First make a solution that is as readable as possible.
+
+ 
+
+Then write it a second time.  This time use a combination of  
+str.join’s and list comprehensions, to produce as few lines as 
+possible. Break the #1 Rule and don’t worry about readability.
+
+ 
+
+Make an  Palindromize ( phrase) that returns the lowercase version 
+of the phrase with whitespace and punctuation removed if the phrase 
+is a palindrome. If not, it returns  None. A phrase is a palindrome 
+if, after all the whitespace and punctuation is removed, and after 
+it is made all the same case, it is the same backwards as forwards. 
+Be sure your module is quiet on import.  Don't count phrases that 
+have fewer than 3 characters.
+ 
+ 
+
+My test data:
+
+ 
+
+Data =
+
+(’Murder for a jar of red rum’, 12321,
+
+ 
+
+’nope’, ’abcbA’, 3443, ’what’,
+
+ 
+
+’Never odd or even’, ’Rats live on no evil star’)
+
+
+ 
+
+Place your hw11_2.py in a directory structure:
+ 
+
+application
+
+|
+
+ 
+
+|
+
+driver/
+
+ 
+
+utils /
+
+hw11_3.py
+
+ 
+
+hw11_2.py
+
+
+ 
+
+Import hw11_2.py into your hw11_3.py. 
+
+Your hw11_3.py will ask for a starting directory name and will 
+look for and report any words that are palindromes throughout the 
+directory structure.
+
+Your solution must contain the correct sys.path manipulation that 
+only puts "application" on your import path.
+
+------
+Common Mistakes
+
+
+ASCII chart:
+
+Style guide violation.  I will return your submission with no further 
+critiquing if it is hard for me to read.
+
+Not using modulo for 4 wide, but doing an extra count instead
+Extra stuff
+Duplicate code
+Redundant processing
+No output
+
+Palindrome:
+
+Continuing to test characters after you already know it's
+not a palindrome
+Forgetting () on function call
+Using len() in a loop (same function run over and over)
+Using string.join rather than ".".join
+Checking more than half way through the phrase
+Architecture mistake, maybe str(phrase) outside the function
+Using re
+No output
+
+Walk/Package
+
+Not getting packaging right: __init__.py, '..' on sys.path
+Changing sys.path for no purpose
+Adding string to list without []
+No output
+Bad documentation
+Not testing file contents
+No try/except/finally
+Not getting the finally correct
+Too much in try clause
+Checking if a file is a file
+ 
+
+The following questions were asked by a student from previous class, and my response.
+
+ 
+
+Q1. Is it expected to create program which returns the ascii chart 
+with four entries such as "Dec", "Hex", "Oct" and "Chr" as in 
+http://www.asciitable.com/?
+
+Answer: No. The string returned by function GiveAsciiChart could 
+show the entries horizontally (row by row). The following example 
+illustrates the first three rows:
+
+32:    33:!   34:"   35:#
+36:$   37:%   38:&   39:'
+40:(   41:)   42:*   43:+
+
+It could also show the entries vertically (column by column). The 
+following example illustrates the first three rows:
+
+32:    56:8   80:P  104:h
+33:!   57:9   81:Q  105:i
+34:"   58::   82:R  106:j
+
+If you do the first (horizontal) option, no extra counter or nested loop should be used.
+
+Q2. It is expected to create the second version which returns the 
+ascii chart with four entries across as in the first version , using str.join.  Is it correct?
+
+Answer: For the second version, the function should return exactly the 
+same string as shown above, but it has to be implemented using a 
+combination of str.join’s and list comprehensions, to produce as few 
+lines of code as possible. Break all the readability rules.  This is to 
+show how unreadable code can make our life miserable.
+
+ 
+

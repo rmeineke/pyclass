@@ -1,0 +1,139 @@
+Review 5
+Review 5: Labs 11, 12
+------------------------------------------------
+
+
+Question 1 of 10
+10.0 Points
+Which is true for sys.path:
+
+  A. sys.path is the import facility's search path
+
+  B. sys.path has forks in it.
+
+  C. sys.path is a tuple
+
+  D. sys.path is an os directory
+
+
+
+Question 2 of 10
+10.0 Points
+__init__.py is
+
+  A. a flag that tells the import facility to look in this directory.
+  B. is generated at run time. 	
+  C. the initializing directory of every package. 	
+  D. should never really have the '.py' part.
+
+
+
+
+Question 3 of 10
+10.0 Points
+What is the maximum number of dots you can have on 
+an import line like this: import this.that.etc
+
+  A. many 	
+  B. 0 	
+  C. 1 	
+  D. 2 
+
+
+
+Question 4 of 10
+10.0 Points
+For this code:
+
+setattr(obj, label, value)
+
+label:
+
+  A. none of the others. 	
+  B. must be an existing attribute name inside the obj.
+  C. is a string which will become a label in obj's namespace.
+  D. is a string which will become a label in the global space. 	Reset Selection
+
+
+
+Question 5 of 10
+10.0 Points
+Which DoThis function will crash when called?
+
+  A.
+    def DoThis():
+        def Report():
+            print amount
+        amount = 3
+        Report()
+  B.
+    def DoThis():
+        def Report():
+            print amount
+        Report()
+        amount = 3
+ 
+  C. Neither of the code examples will crash.
+
+
+
+Question 6 of 10
+10.0 Points
+When the interpreter sees:
+
+print x
+
+It will look for "x" in:
+
+  A. globals first, then builtins. 	
+  B. locals first, then surrounding scopes, then globals, then builtins. 	
+  C. any objects in scope. 	
+  D. surrounding scopes first. 	Reset Selection
+
+
+
+Question 7 of 10
+10.0 Points
+The three things to think about when importing from an arbitrary directory are:
+
+  A. sys.path, __init__.py, import
+
+  B. sys.path, insert, dir
+
+  C. __init__.py, dir, import
+
+  D. dir, help, >>>
+
+
+
+
+Question 8 of 10
+10.0 Points
+The shelve module is good for:
+
+  A. applying a numeric code. 	
+  B. ordering objects. 	
+  C. constructing any type of storage. 	
+  D. making a persistent dictionary. 	Reset Selection
+
+
+
+Question 9 of 10
+10.0 Points
+Which module is good for copying an entire directory structure?
+  A. os.path
+  B. shutil 
+  C. tempfile
+  D. dircopy
+
+
+
+
+Question 10 of 10
+10.0 Points
+If you need to spawn another process and collect its stdout, you want to use:
+  A. subprocess
+  B. glob
+  C. spawn
+  D. cprofile
+
