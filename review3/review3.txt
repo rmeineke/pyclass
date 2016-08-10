@@ -62,7 +62,7 @@ Consider the attached.
 Which call below will not work?
 
   A. workshop.Make(3, "ball", "blue") 	
-  B. workshop.Make() 	
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> B. workshop.Make() 	
   C. workshop.Make(toy_type='doll', number=3) 	Reset Selection
 
 
