@@ -1,0 +1,18 @@
+# MY STRATEGY:
+#     Check for illegal characters
+#     Check for keywords
+#     Check for numbers as the first character
+#     Check to see if the first char is a letter or underscore
+
+#------------------------------------------------------------
+# check each string for any invalid characters
+#
+# this could be done more efficiently with a regex ...
+# [_A-Za-z0-9] ... or similar
+#
+# but I didn't want to work too far ahead .... so
+# brute force it is!
+#
+# also, while the string 'x,y ' has two invalid characters,
+# the comma and the space, this check is going to bomb out
+# as soon as the first bad character is found

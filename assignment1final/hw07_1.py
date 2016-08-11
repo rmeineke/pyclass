@@ -29,7 +29,4 @@ def IsValidIdentifier(s):
     if s[0].isdigit():
         return False, '{:>20} -> Invalid: first symbol must be alphabetic or underscore'.format(s)
 
-    # make sure that the first character is a letter or is
-    # an underscore
-    #if s[0].isalpha() or s[0] == '_':
     return True, '{:>20} -> Valid!'.format(s)
