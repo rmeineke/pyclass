@@ -7,7 +7,7 @@ Question 1 of 10
 10.0 Points
 Which is true for sys.path:
 
-  A. sys.path is the import facility's search path
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>A. sys.path is the import facility's search path
 
   B. sys.path has forks in it.
 
@@ -21,7 +21,7 @@ Question 2 of 10
 10.0 Points
 __init__.py is
 
-  A. a flag that tells the import facility to look in this directory.
+  >>>>>>>>>>>>>>>>>>A. a flag that tells the import facility to look in this directory.
   B. is generated at run time. 	
   C. the initializing directory of every package. 	
   D. should never really have the '.py' part.
