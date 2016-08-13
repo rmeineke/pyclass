@@ -34,7 +34,7 @@ Question 3 of 10
 What is the maximum number of dots you can have on 
 an import line like this: import this.that.etc
 
-  A. many 	
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> A. many 	
   B. 0 	
   C. 1 	
   D. 2 
@@ -51,7 +51,7 @@ label:
 
   A. none of the others. 	
   B. must be an existing attribute name inside the obj.
-  C. is a string which will become a label in obj's namespace.
+ >>>>>>>>>>>>>>>>>> C. is a string which will become a label in obj's namespace.
   D. is a string which will become a label in the global space. 	Reset Selection
 
 
@@ -66,7 +66,7 @@ Which DoThis function will crash when called?
             print amount
         amount = 3
         Report()
-  B.
+  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<B.
     def DoThis():
         def Report():
             print amount
@@ -86,7 +86,7 @@ print x
 It will look for "x" in:
 
   A. globals first, then builtins. 	
-  B. locals first, then surrounding scopes, then globals, then builtins. 	
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>  B. locals first, then surrounding scopes, then globals, then builtins. 	
   C. any objects in scope. 	
   D. surrounding scopes first. 	Reset Selection
 
@@ -96,7 +96,7 @@ Question 7 of 10
 10.0 Points
 The three things to think about when importing from an arbitrary directory are:
 
-  A. sys.path, __init__.py, import
+  >>>>>>>>>>>>>>>>>>>>>>>>>>> A. sys.path, __init__.py, import
 
   B. sys.path, insert, dir
 
@@ -114,7 +114,7 @@ The shelve module is good for:
   A. applying a numeric code. 	
   B. ordering objects. 	
   C. constructing any type of storage. 	
-  D. making a persistent dictionary. 	Reset Selection
+ >>>>>>>>>>>>>>>>>>>>>>>>  D. making a persistent dictionary. 	Reset Selection
 
 
 
@@ -122,7 +122,7 @@ Question 9 of 10
 10.0 Points
 Which module is good for copying an entire directory structure?
   A. os.path
-  B. shutil 
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> B. shutil 
   C. tempfile
   D. dircopy
 
@@ -132,7 +132,7 @@ Which module is good for copying an entire directory structure?
 Question 10 of 10
 10.0 Points
 If you need to spawn another process and collect its stdout, you want to use:
-  A. subprocess
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> A. subprocess
   B. glob
   C. spawn
   D. cprofile

@@ -1,0 +1,143 @@
+Question 1 of 10
+10.0 Points
+**
+
+is about:
+
+  A. emphasis in your code 	
+  <>>>>>>>>>>>>>>>>>>>>>>>>>>> B. packing and unpacking dictionaries in function protocols. 	
+  C. pointer to a pointer 	
+  D. look for matching ** in the code and go there. 	Reset Selection
+
+Question 2 of 10
+10.0 Points
+bird_d = {'bird':'ketzal','yellow':'color', 'feathers':'long',
+           'ketzal':'bird', 'color':'green'}
+
+print "%(bird)s has %(color)s feathers" % bird_d
+
+produces which output?
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>A. ketzal has green feathers 	
+  B. bird has yellow feathers 	
+  C. ketzal has long feathers 	Reset Selection
+
+Question 3 of 10
+10.0 Points
+Which line starts the definition of the Cloud class?
+  A. def Cloud(self):
+
+  B. cloud = Cloud('silver')
+
+  C. def __init__(self):
+
+  D. class Cloud:
+
+  E. def print(self):
+
+
+
+Question 4 of 10
+10.0 Points
+Which line instantiates a Cloud object?
+  A. cloud = Cloud('silver')
+
+  B. yield Cloud
+
+  C. def __init__(self, color='white'):
+
+  D.
+class Cloud:
+
+Reset Selection
+
+Question 5 of 10
+10.0 Points
+Which is called at initialization?
+  A.
+def __init__(self, color='white'):
+
+  B. class Cloud:
+
+  C. def Cloud(self, color='white'):
+
+  D. class Cloud(self, color='white'):
+
+
+
+Question 6 of 10
+10.0 Points
+class Thing:
+    number_of_things = 0
+    def __init__(self):
+        Thing.number_of_things += 1
+        self.thing_no = self.number_of_things
+print Thing().thing_no
+
+gives which output?
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>A. 1 	
+  B. 0 	
+  C. It crashes. 
+
+
+
+Question 7 of 10
+10.0 Points
+Which code implements the requirement that the Sky class has ( contains) object(s) of the Cloud class?
+  A.
+class Cloud:
+    def __init__(self):
+        self.sky = Sky()
+
+  B.
+class Cloud(Sky):
+
+  C.
+class Sky(Cloud):
+
+  D.
+class Sky:
+    def __init__(self, number_of_clouds):
+        self.clouds = [Cloud() for each in
+                       range(number_of_clouds)] 
+    
+
+Reset Selection
+
+Question 8 of 10
+10.0 Points
+Which indicates that the Daughter class inherits from the Mother class?
+
+  A. class Daughter(Mother):
+
+  B. class Daughter: 
+    def __init__(self): 
+        self.mother = Mother()
+
+  C. class Mother:
+    def __init__(self):
+        self.daughter = Daughter()
+
+  D. class Mother(Daughter):
+
+
+
+Question 9 of 10
+10.0 Points
+Which is not true of the from keyword?
+
+  A. it is part of the import facility.
+  B. it puts the library name in your namespace. 	
+  C. with * it can pollute your namespace with unknown, unwanted names. 	Reset Selection
+
+
+
+Question 10 of 10
+10.0 Points
+Which is NOT true about * ?
+
+  A. You can use * in a function definition so that any extra args given in a 
+        call are gathered into a tuple. 	
+  B. You can use * in a function call to unwrap a sequence into an argument list. 	
+  C. You can use * in your code to indicate indirection.
