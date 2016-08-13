@@ -18,7 +18,11 @@ def Palindromize(phrase):
     else:
         return reversed_string
     
-    
+           
+if __name__ == '__main__':
+    main()
+
+
 def Palindromize2(phrase):
     print('## Palindromize2 ##')
     # make sure everything passed in is seen as a string object
