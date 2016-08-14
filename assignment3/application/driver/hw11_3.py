@@ -3,7 +3,7 @@ import sys
 
 # add the utils directory to the path so we can import
 # the Palindrome code
-sys.path.insert(0, os.path.abspath('../utils'))
+sys.path.insert(0, os.path.abspath('./utils'))
 import hw11_2
 
     
@@ -16,7 +16,7 @@ def ask_user_for_directory():
             print("Oops, that doesn't seem to be a directory.\n")
     
     
-def main():
+def find_palindromes():
     
     check_this_directory = ask_user_for_directory()
     
