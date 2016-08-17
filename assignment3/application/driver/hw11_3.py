@@ -1,12 +1,13 @@
 import os
 import sys
 
-# add the utils directory to the path so we can import
-# the Palindrome code
-sys.path.insert(0, os.path.abspath('./utils'))
-import hw11_2
+# add the application directory to the path
+sys.path.insert(0, '..')
 
-    
+# and import the palindrome module
+import utils.hw11_2
+
+
 def ask_user_for_directory():
     while True:
         resp = input('Which directory do you wish to search? ')
@@ -19,9 +20,7 @@ def ask_user_for_directory():
 def find_palindromes():
     
     check_this_directory = ask_user_for_directory()
-    
-    #check_this_directory = '../../application'
-    
+       
     #walk the chosen directory
     for directory, subdir_list, file_list in os.walk(check_this_directory, topdown=True):
         print('\nChecking directory: {}'.format(directory))
@@ -29,10 +28,10 @@ def find_palindromes():
         for filename in file_list:
             filename = os.path.join(directory, filename)
             print('\t{}'.format(filename))
-            with open(filename, 'r', encoding='utf-8') as input_file:
+            with open(filename, 'r') as input_file:
                 try:
                     for line in input_file:
-                        ret_string = hw11_2.Palindromize(line)
+                        ret_string = utils.hw11_2.Palindromize(line)
                         if ret_string:
                             print('\t\tPALINDROME FOUND: {}'.format(ret_string))
                 except UnicodeDecodeError:
@@ -42,4 +41,4 @@ def find_palindromes():
 
            
 if __name__ == '__main__':
-    main()
+    find_palindromes()
