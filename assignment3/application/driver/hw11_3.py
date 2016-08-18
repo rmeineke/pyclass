@@ -2,11 +2,19 @@ import os
 import sys
 
 # add the application directory to the path
-sys.path.insert(0, '..')
+sys.path.insert(0, os.path.abspath('..'))
 
 # and import the palindrome module
 import utils.hw11_2
 
+
+# test and debug
+# print(sys.path)
+
+
+def main():
+    find_palindromes()
+    
 
 def ask_user_for_directory():
     while True:
@@ -28,12 +36,17 @@ def find_palindromes():
         for filename in file_list:
             filename = os.path.join(directory, filename)
             print('\t{}'.format(filename))
+            
+            # used a 'with' context to handle the file open/close details
             with open(filename, 'r') as input_file:
                 try:
                     for line in input_file:
                         ret_string = utils.hw11_2.Palindromize(line)
                         if ret_string:
                             print('\t\tPALINDROME FOUND: {}'.format(ret_string))
+                            
+                # I ran into a bunch of these trying to process binary files
+                # used it as a good way to practice catching this specific error
                 except UnicodeDecodeError:
                     print('\t[decode error: {}]'.format(filename))
                 except:
@@ -41,4 +54,4 @@ def find_palindromes():
 
            
 if __name__ == '__main__':
-    find_palindromes()
+    main()

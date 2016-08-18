@@ -1,0 +1,42 @@
+Instructions
+Please complete Labs 1-17 before attempting this assignment.
+
+Following our style_guide.pdf in Resources is particularly important for this last specification.
+
+Don't forget to include the output from running your program.
+
+Assignment 3 Lab 17
+
+For this assignment, you have two choices:
+
+1. Write your own application, I am interested in the quality of your code, not quantity.  I want to see at least one class definition, with __init__ and __str__ defined.  I like to see that you understand  the '*' character in Python.  It's nice to see a list comprehension, and other devices you learned.  Be sure your code is Python, and not your old language translated directly to Python.
+
+2. In our class "Resources", lab.zip has:
+
+labs/lab_17_Developer_Modules/egypt_def.py
+labs/lab_17_Developer_Modules/currency_def.py
+labs/lab_17_Developer_Modules/japan_def.py
+labs/lab_17_Developer_Modules/usa_def.py
+labs/lab_17_Developer_Modules/currency_test.py
+
+These are 5 cooperating modules and 4 classes: currency_def.py, the base class for any currency for any country in the world; and three country_def.py classes that only contain class data for each of the countries.
+
+Notice that there are no methods in the country_def.py classes, only data attributes for the class.  This shows a (sometimes) useful oddity in the scoping rules of Python.
+
+When referencing an attribute in a object:
+
+print obj.x
+
+if x cannot be found in the obj, and if obj is an object of a class, it will reference the class' x.  If it doesn't find the x in the class, it will look in the super-classes.
+
+This behavior is reiterated on page 23 of Lab 18.
+
+You have three tasks:
+
+a.  Study the code and run currency_test.py. You'll have to add exactly one __init__.py into a particular directory.  Where?
+
+b.  Make another country_def.py, for a country of your choice.
+
+c.  Rewrite currency_test.py to be a unit test.
+
+If you like, you can make your currency_test.py be dynamic, so that it finds all the country_def.py's in the directory and adjusts the testing so that it tests all that it finds.  No extra credit will be given for doing this, but you might find it interesting.

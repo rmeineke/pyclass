@@ -16,7 +16,3 @@ def Palindromize(phrase):
         return None
     else:
         return reversed_string
-    
-           
-if __name__ == '__main__':
-    main()

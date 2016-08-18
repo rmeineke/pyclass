@@ -1,3 +1,7 @@
+def main():
+    print(GiveAsciiChart())
+    
+    
 def GiveAsciiChart():
     ret_string = ''
     for x in range(32,127):
@@ -5,10 +9,6 @@ def GiveAsciiChart():
         if (x % 4) == 3:
             ret_string += '\n'
     return ret_string
-    
-    
-def main():
-    print(GiveAsciiChart())
     
 
 if __name__ == "__main__":
