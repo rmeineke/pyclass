@@ -1,0 +1,195 @@
+
+Question 1 of 10
+10.0 Points
+Which special method, if provided, gets called when, outside 
+your Cloud class, this happens:
+
+cloud.color = 'pink'
+
+  A.
+__getattr__
+
+  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< B.
+__setattr__
+
+  C.
+__exec__
+
+  D.
+__eval__
+
+
+////////////////////////////////////////////////
+
+
+Question 2 of 10
+10.0 Points
+Which is true of:
+
+def Fn(data = []):
+
+  A. is a good idea so that all calls to the function that 
+    do not provide any arguments on the call will get the empty list as data. 	
+  B. is a reasonable idea as long as your data is a 
+    list of strings. 	
+  C. is a good idea so that your data lists start 
+    empty with every call. 	
+ >>>>>>>>>>>>>>>>>>>>>>>>.  D. is a bad idea because the default [] will accumulate 
+    data and the default [] will change with subsequent calls.
+    
+    
+///////////////////////////////////////////////////////////////
+
+
+Question 3 of 10
+10.0 Points
+When you want to collect several exception types and process them 
+all the same way, which form is correct?
+A.
+try: 
+    something 
+except, info:
+    (ExceptionType1, ExceptionType2): 
+    process
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>. B.
+try: 
+    something 
+except (ExceptionType1, ExceptionType2), info: 
+    process
+
+C.
+try: 
+    something 
+except ExceptionType1, ExceptionType2, info: 
+    process
+
+D.
+try: 
+    something 
+except ExceptionType1, info: 
+    process1 
+except ExceptionType2, info: 
+    process2
+
+
+///////////////////////////////////////////////////////
+
+
+Question 4 of 10
+10.0 Points
+class A:
+    class B:
+        print 'Hi' 
+a = A()
+
+When this snippet is run, what happens?
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> A. Hi is output.
+  B. Nothing happens. 	
+  C. It crashes. 	
+  D. a is output.
+
+//////////////////////////////////////////////////////////
+
+Question 5 of 10
+10.0 Points
+Which is better?
+A.
+index = 0
+while index < len(data):
+    print data[index] 
+    i += 1
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> B.
+for datum in data:
+    print datum
+
+C.
+for index in range(len(data)):
+    print data[index]
+
+////////////////////////////////////////
+
+Question 6 of 10
+10.0 Points
+Which is better?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   A.
+print """Hi and "Hola"
+to each
+of you
+"""
+
+  B.
+print  "Hi and \"Hola\" 
+to each 
+of you 
+"
+
+  C.
+print  "Hi and \"Hola\" \n to each\n of you\n "
+
+  D.
+print ' Hi and "Hola" \n to each\n of you\n'
+
+//////////////////////////////////////////////////
+
+Question 7 of 10
+10.0 Points
+Which is true of: assert
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> A. All assert statements will disappear when code is optimized.
+
+  B. assert is the same as raise.
+
+  C. You add assert statements once you have your code finished.
+
+  D. assert statements should be false.
+
+///////////////////////////////////////////////////////////////////////
+
+Question 8 of 10
+10.0 Points
+Which will create a new exception type?
+
+A.
+class MyException(ValueError):
+    pass
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< B.
+class MyException:
+    def __init__(self, *args):
+        Exception.__init__(self, *args)
+
+C.
+class MyException:
+    pass
+
+D.
+def  MyException(ValueError):
+    pass
+
+///////////////////////////////////////////////////////
+
+Question 9 of 10
+10.0 Points
+In Python code, when you see:
+
+x.a
+
+Which is  never true?
+
+  A. The dot operator is being used to travel from one namespace into another. 	
+  >>>>>>>>>>>>>>>>>>>>>>>>B. The x can be an arithmetic operator( +, -, etc.).
+  C. The x can be the name of an import.
+  D. The x can be an object of your own type.
+
+////////////////////////////////////////////////////////////////
+
+Question 10 of 10
+10.0 Points
+Writing readable code is very important; that's why 
+the world is turning to Python. Python makes readable code very possible.
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>True
+ False
+

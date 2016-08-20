@@ -28,6 +28,8 @@ produces which output?
   B. bird has yellow feathers 	
   C. ketzal has long feathers 	Reset Selection
 
+
+
 Question 3 of 10
 10.0 Points
 Which line starts the definition of the Cloud class?
@@ -37,7 +39,7 @@ Which line starts the definition of the Cloud class?
 
   C. def __init__(self):
 
-  D. class Cloud:
+  >>>>>>>>>>>>>>>>>>>>>>>>> D. class Cloud:
 
   E. def print(self):
 
@@ -46,22 +48,21 @@ Which line starts the definition of the Cloud class?
 Question 4 of 10
 10.0 Points
 Which line instantiates a Cloud object?
-  A. cloud = Cloud('silver')
+  >>>>>>>>>>>>>>>>>>>>>>>>> A. cloud = Cloud('silver')
 
   B. yield Cloud
 
   C. def __init__(self, color='white'):
 
-  D.
-class Cloud:
+  D. class Cloud:
 
-Reset Selection
+
+
 
 Question 5 of 10
 10.0 Points
 Which is called at initialization?
-  A.
-def __init__(self, color='white'):
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>. A. def __init__(self, color='white'):
 
   B. class Cloud:
 
@@ -90,32 +91,29 @@ gives which output?
 
 Question 7 of 10
 10.0 Points
-Which code implements the requirement that the Sky class has ( contains) object(s) of the Cloud class?
-  A.
-class Cloud:
+Which code implements the requirement that the Sky class has 
+( contains) object(s) of the Cloud class?
+  
+  A. class Cloud:
     def __init__(self):
         self.sky = Sky()
 
-  B.
-class Cloud(Sky):
+  B. class Cloud(Sky):
 
-  C.
-class Sky(Cloud):
+  C. class Sky(Cloud):
 
-  D.
-class Sky:
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>. D. class Sky:
     def __init__(self, number_of_clouds):
         self.clouds = [Cloud() for each in
                        range(number_of_clouds)] 
     
 
-Reset Selection
 
 Question 8 of 10
 10.0 Points
 Which indicates that the Daughter class inherits from the Mother class?
 
-  A. class Daughter(Mother):
+  >>>>>>>>>>>>>>>>>>>>>>>>>>A. class Daughter(Mother):
 
   B. class Daughter: 
     def __init__(self): 
@@ -134,8 +132,8 @@ Question 9 of 10
 Which is not true of the from keyword?
 
   A. it is part of the import facility.
-  B. it puts the library name in your namespace. 	
-  C. with * it can pollute your namespace with unknown, unwanted names. 	Reset Selection
+  >>>>>>>>>>>>>>>>>>>>> B. it puts the library name in your namespace. 	
+  C. with * it can pollute your namespace with unknown, unwanted names.
 
 
 
@@ -146,4 +144,4 @@ Which is NOT true about * ?
   A. You can use * in a function definition so that any extra args given in a 
         call are gathered into a tuple. 	
   B. You can use * in a function call to unwrap a sequence into an argument list. 	
-  C. You can use * in your code to indicate indirection.
+  >>>>>>>>>>>>>>>>>>>>>>>>>>.C. You can use * in your code to indicate indirection.

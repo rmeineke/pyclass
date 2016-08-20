@@ -1,7 +1,8 @@
 Instructions
 Please complete Labs 1-17 before attempting this assignment.
 
-Following our style_guide.pdf in Resources is particularly important for this last specification.
+Following our style_guide.pdf in Resources is particularly important 
+for this last specification.
 
 Don't forget to include the output from running your program.
 

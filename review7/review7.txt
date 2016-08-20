@@ -1,0 +1,252 @@
+
+
+Question 1 of 10
+10.0 Points
+1 cloud = Cloud()
+2 the_cloud_string = "%s" % (cloud)
+
+Which method does the interpreter look for when it sees line 2?
+
+
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> A. def __str__(self):
+
+  B. def __print__(self):
+
+  C. def print(self):
+
+  D. def string(self):
+
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+#!/usr/bin/env python
+class Animal:
+	says = 'Grrrr'
+
+	def __init__(self):
+		self.mobile = True
+
+	def __str__(self):
+		return self.says
+
+	def __call__(self):
+		print "run"
+		
+class Human(Animal):
+	says = 'Hi'
+
+class Plant:
+	says = 'Sunshine'
+
+	def __init__(self):
+		self.mobile = False
+
+	def __call__(self):
+		print "flowering"
+		
+class Flower(Plant):
+	says = 'Bloom'
+
+class FlowerChild(Flower, Human):
+    says = 'Peace'
+
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+
+Question 2 of 10
+10.0 Points
+Consider the attached code.
+
+print FlowerChild()
+
+outputs which?
+
+    
+  flower_child_def.py	    0 KB
+  A. False 	
+  B. It crashes. 	
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> C. Peace 	
+  D. Grrrr
+  
+  
+  
+  
+Question 3 of 10
+10.0 Points
+print FlowerChild().mobile
+
+outputs what?
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> A. False 	
+  B. True 	
+  C. It crashes. 	
+  D. Sunshine
+  
+  
+
+Question 4 of 10
+10.0 Points
+How would I change the definition of the FlowerChild class to make 
+flower_children mobile, while changing nothing else 
+about the behavior of any of the classes in the module?
+
+  A. class FlowerChild(Human, Flower):
+    says = 'Peace'
+    def __init__(self): 
+        Human.__init__(self)
+        
+        
+  B. class FlowerChild(Flower, Human):
+    says = 'mobile'
+
+ 
+  C. class FlowerChild(Human, Flower):
+    says = 'Peace' 
+    Human.__init__(self)
+
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>  D. class FlowerChild(Flower, Human):
+    says = 'Peace'
+    def __init__(self): 
+        Human.__init__(self)
+
+
+
+
+
+Question 5 of 10
+10.0 Points
+If I have an object, your_object, which is NOT useful for discovering 
+the class from which it was instantiated?
+
+  A. isinstance
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> B. is
+
+  C. __class__
+
+
+
+
+Question 6 of 10
+10.0 Points
+For the following class definitions, which below is not true?
+ 
+class PoliteList(list):
+    def __str__(self):
+        return """Here are your data: %s Thank you for asking.""" % (list.__str__(self))
+  
+  A. print PoliteList([1,2,3])
+
+        produces:
+        
+        Here are your data:
+        [1, 2, 3]
+        Thank you for asking.
+  .>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> B. print PoliteList([1,2,3])
+
+        will crash.
+
+  C. PoliteList is a new style class.
+
+  D. numbers = PoliteList()
+        numbers += [3]
+        will work.
+ 
+
+
+
+Question 7 of 10
+10.0 Points
+1 a = A()
+2 a()
+
+Which special function makes line 2 possible?
+
+  <>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> A. __call__
+
+  B. __init__
+ 
+  C. __getattr__
+
+  D. __del__
+
+
+
+
+
+Question 8 of 10
+10.0 Points
+In the Unified Modeling Language, which symbol indicates 
+that objects of the Music class contain (has-a) of the Note class?
+
+  A.
+Music
+
+  |
+  |
+ / \
+ \ /
+Note
+  B.
+Music
+ / \
+  |
+  |
+Note
+ 
+
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>C.
+Music
+ / \
+ \ /
+  |
+  |
+Note
+  D.
+Music
+
+  |
+  |
+ \ /
+Note
+
+
+
+
+Question 9 of 10
+10.0 Points
+The term method resolution refers to:
+
+  >>>>>>>>>>>>>>>>>>>>>>>>> A. The interpreter's process of finding methods for objects of classes. 	
+  B. The interpreter's process of finding private methods and identifiers. 	
+  C. In UML, the process of diagramming inheritance. 	
+  D. The interpreter's process of converting methods into identifiers.
+  
+  
+  
+
+Question 10 of 10
+10.0 Points
+Which is true after this happens:
+ 
+class Box:
+    pass
+    box = Box()
+    box.sides = 6
+    
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> A. box2 = Box()
+        print box2.sides
+        will crash.
+        
+  B. box2 = Box()
+        print box2.sides
+        will print 6.
+        
+  C. is considered a good idea in OOP practice 
+    because it makes the attributes in objects of your 
+    classes available for changing on the fly from any code.
+
+  D. is limited to making 6 box objects.
