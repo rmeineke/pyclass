@@ -17,7 +17,7 @@ __pychecker__ = "no-local"    # Ask me!
 
 def DealCard():
     """Generator to yield one card at a time from a deck."""
-    deck = cards.GetCards()
+    deck = cards.Cards()
     random.shuffle(deck)
     for card in deck:
         yield card

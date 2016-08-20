@@ -9,32 +9,19 @@ def TranslateToKeypad(word):
     def -> 3  jkl -> 5  pqrs -> 7  wxyz -> 9
     Other characters get passed on.
     """
-
-    def KeyMap(ch):
-        if ch in 'abcABC':
-            return '2'
-        if ch in 'defDEF':
-            return '3'
-        if ch in 'ghiGHI':
-            return '4'
-        if ch in 'jklJKL':
-            return '5'
-        if ch in 'mnoMNO':
-            return '6'
-        if ch in 'pqrsPQRS':
-            return '7'
-        if ch in 'tuvTUV':
-            return '8'
-        if ch in 'wxyzWXYZ':
-            return '9'
-        return ch
+    KEY_MAP = ('abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz')
 
     translated_word = ''
-    for ch in word:
-        translated_word += KeyMap(ch)
+    for ch in word.lower():
+        hit = 2
+        for key_letters in KEY_MAP:
+            if ch in key_letters:
+                translated_word += str(hit)
+                break
+            hit += 1
+        else:
+            translated_word += ch
     return translated_word
-
-
 
 def main():
     """Tests the TranslateToKeypad function."""

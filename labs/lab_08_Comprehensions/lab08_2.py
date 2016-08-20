@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """lab08_2.py Use list comprehensions to make a deck of cards."""
 
-def GetCards():
+def Cards():
     """Return a deck of cards as a list of strings."""
 
     values = [str(x) for x in range(2, 11)] + ['Jack','Queen','King','Ace']
@@ -10,7 +10,7 @@ def GetCards():
     return deck
 
 def main():
-    deck = GetCards()
+    deck = Cards()
     print "The deck contains:"
     for i, card in enumerate(deck):
         if card is deck[-1]:

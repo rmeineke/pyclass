@@ -6,12 +6,17 @@ from __future__ import division
 import sys
 import string
 
-def CountWords(text, counts_d, total=0):
-    """Counts the number of each word in the text.  Returns the 
-    total number of words.
-    counts_d is a dictionary of {"word":count, "word2":count, ...}
-    which can be empty when called.
-    """
+def CountWords(text, total=0, counts_d=None):
+    """Counts the number of each word in the text.  Returns a tuple =
+    (total_words, dictionary of {"word":count, "word2":count, ...})
+    If a counts_d dictionary, it gets updated with the new words found,
+    otherwise a new dictionary is started.
+
+    total and counts_d are initialized in the argument list, just in
+    case we ever want to use this to accumulate the word count through
+    multiple files"""
+    if not counts_d:
+        counts_d = {}
     text = text.lower().split()
     for word in text:
         word = word.strip(string.punctuation)
@@ -22,7 +27,7 @@ def CountWords(text, counts_d, total=0):
             counts_d[word] += 1
         else:
             counts_d[word] = 1
-    return total
+    return total, counts_d
 
 def FindPopularWords(counts_d):
     """Returns a list of (word, count) pairs from the dictionary
@@ -45,7 +50,7 @@ def FindPopularWords(counts_d):
         counts_l += [(word, counts_d[word])]
     return counts_l
 
-def GenWordReport(file_name, counts_d, total):
+def GenWordReport(file_name, total, counts_d):
     """Returns a string containing the report of the words in the
     counts_d dictionary, and total words given."""
     if not total:
@@ -73,10 +78,8 @@ def PopularWordReport(file_name):
     """Driver for the program.  Returns a the popular word report for
     the file_name."""
     text = GetText(file_name)
-    counts_d = {}
-    total = CountWords(text, counts_d)
-    print total, counts_d
-    return GenWordReport(file_name, counts_d, total)
+    total, counts_d = CountWords(text)
+    return GenWordReport(file_name, total, counts_d)
 
 def main():
     try:

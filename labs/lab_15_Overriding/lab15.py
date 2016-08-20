@@ -66,7 +66,7 @@ class Clock:
         self.hr = 1 + (self.hr - 1) % 12
 
     def __repr__(self):
-        return self.__class__.__name__ + """('%s')""" % str(self)
+        return """Clock('%s')""" % str(self)
 
     def __str__(self):
         return "%2d:%02d" % (self.hr, self.min)

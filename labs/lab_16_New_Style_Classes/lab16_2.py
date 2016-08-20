@@ -6,7 +6,7 @@ if __name__ == '__main__':
 else:                        
     sys.path.insert(0, os.path.join(os.path.split(__file__)[0], '..'))
 
-import lab_08_Comprehensions.lab08_4 as make_money_string
+import lab_08_Comprehensions.lab08_4 as money_format
 
 class Money(float):
 
@@ -29,7 +29,7 @@ class Money(float):
         return """Money('%f')""" % self
     
     def __str__(self):
-        return make_money_string.MakeMoneyString(self)
+        return money_format.MoneyFormat(self)
 
     def __sub__(self, other):
         return Money(float.__sub__(self, other))

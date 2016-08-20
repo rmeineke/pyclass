@@ -56,4 +56,21 @@ Yeh Mary Bart #9 Get that ball!
 Yeh Linda Jarvis #3 Block that kick!
 Yeh Jose Acosta #11 Guard the goal!
 Yeh Tracy Lowe #10 Guard the goal!
+
+Bees:
+  Forwards:
+    1: Maureen Mezzabo
+    6: Juvenal Ramirez
+    7: Bruce Penge
+    8: Samantha Smith
+  Midfielders:
+    2: Laura Dot
+    4: Xavier Perra
+    5: Malcolm Diamond
+    9: Mary Bart
+  Defenders:
+    3: Linda Jarvis
+  Goalies:
+    10: Tracy Lowe
+    11: Jose Acosta
 $"""
