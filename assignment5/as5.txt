@@ -56,3 +56,8 @@ If you like, you can make your currency_test.py be dynamic, so
 that it finds all the country_def.py's in the directory and 
 adjusts the testing so that it tests all that it finds.  No extra 
 credit will be given for doing this, but you might find it interesting.
+
+
+
+A
+import lab_08_Comprehensions.lab08_4 

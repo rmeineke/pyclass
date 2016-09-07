@@ -8,22 +8,26 @@ import currency_def
 import egypt_def
 import japan_def
 import usa_def
+
+# rsm
 import india_def
 
 def TestValue(value):
+    print "--------------------"
+    print " ----------- TestValue"
+    print "--------------------"
+    
     print 'value', value, ':'
     egyptian_pound = egypt_def.Pound(value)
     dollar = egyptian_pound.ExchangeFor(usa_def.Dollar)
     yen = dollar.ExchangeFor(japan_def.Yen)
-    rupee = rupee.ExchangeFor(india_def.Rupee)
-    
-
-    print unicode(rupee), ":\n"
-    print unicode(egyptian_pound), \
-          ":\n", unicode('\n'.join(egyptian_pound.MakeCurrency()))
+    rupee = dollar.ExchangeFor(india_def.Rupee)
+    print unicode(egyptian_pound), ":\n", unicode('\n'.join(egyptian_pound.MakeCurrency()))
     print dollar, ':\n', '\n'.join(dollar.MakeCurrency())
     print unicode(yen), ":\n", unicode('\n'.join(yen.MakeCurrency()))
+    print unicode(rupee), ":\n", unicode('\n'.join(rupee.MakeCurrency()))
     another_pound = yen.ExchangeFor(egypt_def.Pound)
+    
     try:
         assert another_pound == egyptian_pound
     except:
@@ -35,15 +39,23 @@ def TestValue(value):
     assert thrice ==  egyptian_pound + egyptian_pound + egyptian_pound
 
 def RandomTest(tries=2):
+    print "--------------------"
+    print " ----------- RandomTest"
+    print "--------------------"
+    
     import random
     for test in range(tries):
         value = random.random() * (10 **random.randrange(7))
         TestValue(value)
 
 def main():
-    for value in (1000, 100.01, 32.232):
+    print "--------------------"
+    print " ----------- main()"
+    print "--------------------"
+    
+    for value in (1000,):
         TestValue(value)
-    RandomTest(2)
+
     
 if __name__ == '__main__':
     main()
