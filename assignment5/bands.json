@@ -1,0 +1,19 @@
+[
+    {
+        "band_name": "The Steel Wheels",
+        "website_tour_url": "http://thesteelwheels.com/tour",
+        "bandsintown_id": "thesteelwheels"
+    },
+    
+    {
+        "band_name": "The Show Ponies",
+        "website_tour_url": "http://www.theshowponies.com/tour/",
+        "bandsintown_id": "theshowponies"  
+    },
+    
+    {
+        "band_name": "Moonsville Collective",
+        "website_tour_url": "http://www.moonsvillecollective.com/tour/",
+        "bandsintown_id": "moonsvillecollective"  
+    }
+]
