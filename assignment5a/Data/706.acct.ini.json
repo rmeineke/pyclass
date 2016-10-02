@@ -1,0 +1,10 @@
+{
+	"address" : 706,
+	"name" : "Terry and Maureen Cain",
+	"file" : "706.well.txt",
+	"reads_in" : "cubic feet",
+	"email_file" : "/home/robertm/706",
+	"master" : "no",
+	"path_to_data" : "./Data",
+	"path_to_backups" : "./Backups"
+}

@@ -1,0 +1,46 @@
+{"accounts":[
+    {
+        "address" : 704,
+        "name" : "Gene and Toniann Schultz",
+        "file" : "704.well.txt",
+        "reads_in" : "gallons",
+        "email_file" : "/home/robertm/704",
+        "master" : "no",
+        "path_to_data" : "./Data",
+        "path_to_backups" : "./Backups"
+    },
+
+    {
+        "address" : 706,
+        "name" : "Terry and Maureen Cain",
+        "file" : "706.well.txt",
+        "reads_in" : "cubic feet",
+        "email_file" : "/home/robertm/706",
+        "master" : "no",
+        "path_to_data" : "./Data",
+        "path_to_backups" : "./Backups"
+    },
+
+    {
+        "address" : 708,
+        "name" : "Robert and Stephanie Meineke",
+        "file" : "708.well.txt",
+        "reads_in" : "cubic feet",
+        "email_file" : "/home/robertm/708",
+        "master" : "yes",
+        "path_to_data" : "./Data",
+        "path_to_backups" : "./Backups"
+    },
+
+
+    {
+        "address" : 710,
+        "name" : "Lazaro and Irma Olivares",
+        "file" : "710.well.txt",
+        "reads_in" : "cubic feet",
+        "email_file" : "/home/robertm/710",
+        "master" : "no",
+        "path_to_data" : "./Data",
+        "path_to_backups" : "./Backups"
+    }
+]}

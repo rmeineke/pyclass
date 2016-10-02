@@ -1,0 +1,10 @@
+{
+	"address" : 704,
+	"name" : "Gene and Toniann Schultz",
+	"file" : "704.well.txt",
+	"reads_in" : "gallons",
+	"email_file" : "/home/robertm/704",
+	"master" : "no",
+	"path_to_data" : "./Data",
+	"path_to_backups" : "./Backups"
+}
