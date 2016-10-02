@@ -1,0 +1,644 @@
+Instantiating bands...
+The Steel Wheels
+--------------------------------------------
+
+
+The Show Ponies
+--------------------------------------------
+Agoura Hills, CA
+	Sunday, October 2, 2016 at 4:00PM
+Sacramento, CA
+	Wednesday, October 26, 2016 at 7:30PM
+Truckee, CA
+	Friday, October 28, 2016 at 7:00PM
+Cayucos, CA
+	Saturday, October 29, 2016 at 12:00PM
+San Francisco, CA
+	Sunday, October 30, 2016 at 8:00PM
+
+
+T Sisters
+--------------------------------------------
+This band needs hand parsing.
+
+<!doctype html>
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+
+	<meta charset="utf-8">
+	<title>Shows - T Sisters</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		
+	
+<!-- This site is optimized with the Yoast SEO plugin v3.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Follow where the T Sisters will be performing their lively sets of sassy sister folk."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://tsisters.com/shows/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="T Sisters Shows" />
+<meta property="og:description" content="Follow where the T Sisters will be performing their lively sets of sassy sister folk." />
+<meta property="og:url" content="http://tsisters.com/shows/" />
+<meta property="og:site_name" content="T Sisters" />
+<meta property="og:image" content="http://tsisters.com/wp-content/uploads/11002695_10205578926820181_419937461067709470_o.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="T Sisters &raquo; Feed" href="http://tsisters.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="T Sisters &raquo; Comments Feed" href="http://tsisters.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="T Sisters &raquo; Shows Comments Feed" href="http://tsisters.com/shows/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/tsisters.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ssb_style-css'  href='http://tsisters.com/wp-content/plugins/social-share-boost/css/style.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://tsisters.com/wp-content/plugins/socials-ignited/css/font-awesome.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='socials-ignited-css'  href='http://tsisters.com/wp-content/plugins/socials-ignited/css/style.css?ver=4.6.1' type='text/css' media='all' />
+<style id='socials-ignited-inline-css' type='text/css'>
+#socials-ignited-2 i { color: #dddddd; font-size: 30px; width: 30px; height: 30px; line-height: 30px; border-radius: 50px; opacity: 1;  } 
+
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//tsisters.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//tsisters.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.4' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//tsisters.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C700&#038;subset=latin%2Cgreek-ext&#038;ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/css/flexslider.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ci-bootstrap-css'  href='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/css/bootstrap.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mmenu-css'  href='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/css/mmenu.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/css/prettyPhoto.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ci-style-css'  href='http://tsisters.com/wp-content/themes/t-sisters-new/style.css?ver=1.1.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='ci-mediaqueries-css'  href='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/css/mediaqueries.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ci-color-scheme-css'  href='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/colors/default.css?ver=4.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://tsisters.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/panel/scripts/modernizr-2.6.2.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/panel/scripts/jquery.fitvids.js?ver=1.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/js/soundmanager2.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/js/inlineplayer.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?v=3.5&#038;sensor=false'></script>
+<link rel='https://api.w.org/' href='http://tsisters.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tsisters.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://tsisters.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+<meta name="generator" content="WooCommerce 2.6.4" />
+<link rel='shortlink' href='http://tsisters.com/?p=36' />
+<link rel="alternate" type="application/json+oembed" href="http://tsisters.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftsisters.com%2Fshows%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://tsisters.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftsisters.com%2Fshows%2F&#038;format=xml" />
+					<link type="text/css" rel="stylesheet" href="http://tsisters.com/wp-content/plugins/gigs-calendar/templates/basic/style.css" />
+				<link rel="shortcut icon" type="image/x-icon" href="http://tsisters.com/wp-content/uploads/favicon1.ico" /><link rel="apple-touch-icon" href="http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/panel/img/apple-touch-icon.png" /><link rel="apple-touch-icon" sizes="72x72" href="http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/panel/img/apple-touch-icon-72x72.png" /><link rel="apple-touch-icon" sizes="114x114" href="http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/panel/img/apple-touch-icon-72x72.png" /><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58296818-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '771893072882657']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=771893072882657&ev=NoScript" /></noscript><link rel="pingback" href="http://tsisters.com/xmlrpc.php" />			
+</head>
+<body class="page page-id-36 page-parent page-template page-template-template-event-listing page-template-template-event-listing-php ci-berliner ci-berliner-1-1-2 ci-scheme-default">
+
+<div id="mobile-bar">
+	<a class="menu-trigger" href="#mobilemenu"><i class="fa fa-bars"></i></a>
+	<h1 class="mob-title">T Sisters</h1>
+</div>
+<div id="page">
+
+<header id="header">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-3">
+				<h1 id="logo" class="textual"><a href="http://tsisters.com">T Sisters</a></h1>			</div>
+			<div class="col-sm-9">
+				<nav id="nav">
+					<ul id="navigation" class=""><li id="menu-item-1364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1364"><a href="http://tsisters.com/">Home</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://tsisters.com/about/">About</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-36 current_page_item menu-item-38"><a href="http://tsisters.com/shows/">Shows</a></li>
+<li id="menu-item-1107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1107"><a href="http://tsisters.com/shop/">Shop</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://tsisters.com/music/">Music</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://tsisters.com/photos/">Photos</a></li>
+<li id="menu-item-2363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2363"><a href="http://tsisters.com/video-listing/">Videos</a></li>
+<li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="http://tsisters.com/blog/">Blog</a></li>
+<li id="menu-item-2858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2858"><a href="http://tsisters.com/press/">Press</a></li>
+<li id="menu-item-979" class="epk menu-item menu-item-type-post_type menu-item-object-page menu-item-979"><a href="http://tsisters.com/epk/">EPK</a></li>
+<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="http://tsisters.com/contact/">Contact</a></li>
+</ul>				</nav><!-- #nav -->
+
+				<div id="mobilemenu">
+					<ul id="menu-main-menu" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1364"><a href="http://tsisters.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://tsisters.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-36 current_page_item menu-item-38"><a href="http://tsisters.com/shows/">Shows</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1107"><a href="http://tsisters.com/shop/">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://tsisters.com/music/">Music</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://tsisters.com/photos/">Photos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2363"><a href="http://tsisters.com/video-listing/">Videos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="http://tsisters.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2858"><a href="http://tsisters.com/press/">Press</a></li>
+<li class="epk menu-item menu-item-type-post_type menu-item-object-page menu-item-979"><a href="http://tsisters.com/epk/">EPK</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="http://tsisters.com/contact/">Contact</a></li>
+</ul>				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<div class="hero" style="background: url('http://tsisters.com/wp-content/uploads/TSisters-long-1404x250.jpg') no-repeat top center">
+	<div class="hero-inner">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<h2 class="hero-title">
+					Shows					</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<main id="main">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-8 col-md-9">
+				
+				
+				
+<div class="event-wrap">
+    <h3>Upcoming Events</h3>
+
+
+
+
+    <ol class="event-list">
+        <li class="event">
+            <a href="http://tsisters.com/shows/t-sisters-pre-album-release-listening-party/" >
+            <time class="event-time" datetime="2016-09-09T00:00:00-07:00">
+                <span class="day">09</span>
+                <span class="month">Sep</span>
+            </time>
+		T Sisters pre-album release listening party!
+        <h5>Oakland, CA</h5>
+		<h4>Chthonic Theater</h4>
+		</a>
+		<a href="http://bit.ly/Tsislistenparty" class="action-btn buy"  target="_blank" >Buy now!</a>
+		</li>
+
+
+
+																	<li class="event">
+							<a href="http://tsisters.com/shows/ts-churchill-arts-council/" >
+																	<time class="event-time" datetime="2016-09-10T00:00:00-07:00">
+										<span class="day">10</span>
+										<span class="month">Sep</span>
+									</time>
+								T&#8217;s at Churchill Arts Council								<h5>Fallon, NV</h5>
+								<h4>Churchill Arts Council</h4>
+							</a>
+
+																							<a href="" class="action-btn buy"  target="_blank" >Call 1-775-423-1440 for tix now!</a>
+													</li>
+																	<li class="event">
+							<a href="http://tsisters.com/shows/ts-american-river-music-festival/" >
+																	<time class="event-time" datetime="2016-09-16T00:00:00-07:00">
+										<span class="day">16</span>
+										<span class="month">Sep</span>
+									</time>
+								T&#8217;s at American River Music Festival								<h5>Lotus, CA</h5>
+								<h4>American River Music Festival</h4>
+							</a>
+
+																							<a href="http://bit.ly/Tsisamriver" class="action-btn buy"  target="_blank" >Buy now!</a>
+													</li>
+																	<li class="event">
+							<a href="http://tsisters.com/shows/ts-american-river-music-festival-2/" >
+																	<time class="event-time" datetime="2016-09-17T00:00:00-07:00">
+										<span class="day">17</span>
+										<span class="month">Sep</span>
+									</time>
+								T&#8217;s at American River Music Festival								<h5>Lotus, CA</h5>
+								<h4>American River Music Festival</h4>
+							</a>
+
+																							<a href="http://bit.ly/Tsisamriver" class="action-btn buy"  target="_blank" >Buy now!</a>
+													</li>
+																	<li class="event">
+							<a href="http://tsisters.com/shows/ts-nature-art-hike/" >
+																	<time class="event-time" datetime="2016-09-18T00:00:00-07:00">
+										<span class="day">18</span>
+										<span class="month">Sep</span>
+									</time>
+								T&#8217;s in nature &#8211; art hike!								<h5>Norden, CA</h5>
+								<h4>Donner Summit</h4>
+							</a>
+
+																							<a href="http://bit.ly/Tsisnaturehike" class="action-btn buy"  target="_blank" >Buy now!</a>
+													</li>
+																	<li class="event">
+							<a href="http://tsisters.com/shows/ts-in-hayfork/" >
+																	<time class="event-time" datetime="2016-09-22T00:00:00-07:00">
+										<span class="day">22</span>
+										<span class="month">Sep</span>
+									</time>
+								T&#8217;s in Hayfork!								<h5>Hayfork, CA</h5>
+								<h4>Northern Delights</h4>
+							</a>
+
+													</li>
+																	<li class="event">
+							<a href="http://tsisters.com/shows/ts-britt-music-arts-fest/" >
+																	<time class="event-time" datetime="2016-09-23T00:00:00-07:00">
+										<span class="day">23</span>
+										<span class="month">Sep</span>
+									</time>
+								T&#8217;s at Britt Music &#038; Arts Fest!								<h5>Ashland, OR</h5>
+								<h4>Britt Music & Arts Fest</h4>
+							</a>
+
+																							<a href="http://bit.ly/Tsisbritt" class="action-btn buy"  target="_blank" >Buy now!</a>
+													</li>
+																	<li class="event">
+							<a href="http://tsisters.com/shows/hardly-strictly-chthonic-variety-show-thursday-night-show/" >
+																	<time class="event-time" datetime="2016-09-29T00:00:00-07:00">
+										<span class="day">29</span>
+										<span class="month">Sep</span>
+									</time>
+								Hardly Strictly Chthonic Variety Show! *Thursday night show								<h5>Oakland, CA</h5>
+								<h4>Chthonic Theater</h4>
+							</a>
+
+																							<a href="" class="action-btn buy"  target="_blank" >On sale soon!</a>
+													</li>
+																	<li class="event">
+							<a href="http://tsisters.com/shows/ts-hoes-fest/" >
+																	<time class="event-time" datetime="2016-10-01T00:00:00-07:00">
+										<span class="day">01</span>
+										<span class="month">Oct</span>
+									</time>
+								T&#8217;s at Hoes Down Harvest Fest!								<h5>Yolo County</h5>
+								<h4>Full Belly Farm</h4>
+							</a>
+
+																							<a href="http://bit.ly/Tsishoesdown" class="action-btn buy"  target="_blank" >Buy now!</a>
+													</li>
+																	<li class="event">
+							<a href="http://tsisters.com/shows/self-titled-album-release-chapel-sf-50-early-bird-tix/" >
+																	<time class="event-time" datetime="2016-10-14T00:00:00-07:00">
+										<span class="day">14</span>
+										<span class="month">Oct</span>
+									</time>
+								Self-titled album release at The Chapel SF! 50 early bird tix!								<h5>San Francisco, CA</h5>
+								<h4>The Chapel</h4>
+							</a>
+
+																							<a href="http://bit.ly/Tsischap1014" class="action-btn buy"  target="_blank" >Buy early bird tix now!</a>
+													</li>
+																	<li class="event">
+							<a href="http://tsisters.com/shows/ts-in-cayucos/" >
+																	<time class="event-time" datetime="2016-10-15T00:00:00-07:00">
+										<span class="day">15</span>
+										<span class="month">Oct</span>
+									</time>
+								T&#8217;s in Cayucos&#8211;FREE!								<h5>Cayucos, CA</h5>
+								<h4>Cayucos Beach Concerts</h4>
+							</a>
+
+																							<a href="" class="action-btn buy"  target="_blank" >FREE!</a>
+													</li>
+										</ol>
+				</div>
+
+									<div class="event-wrap">
+						<h3>Past Events</h3>
+
+						
+<ol class="event-list">
+	<li class="event">
+	<a href="http://tsisters.com/shows/ts-on-the-tuolumne/" >
+	<time class="event-time" datetime="2016-08-31T00:00:00-07:00">
+	<span class="day">31</span>
+	<span class="month">Aug</span>
+    </time>
+T&#8217;s on the Tuolumne!	<h5>Groveland, CA</h5>
+										<h4>Tuolumne River</h4>
+									</a>
+								</li>
+
+															
+    <li class="event">
+    <a href="http://tsisters.com/shows/chthonic-theater-prince-variety-show/" >
+    <time class="event-time" datetime="2016-08-19T00:00:00-07:00">
+											<span class="day">19</span>
+											<span class="month">Aug</span>
+    </time>
+Chthonic Theater PRINCE Variety Show!										<h5></h5>
+										<h4>Chthonic Theater</h4>
+									</a>
+								</li>
+
+															
+								<li class="event">
+									<a href="http://tsisters.com/shows/ts-park-city-brandi-carlile-afterparty/" >
+										<time class="event-time" datetime="2016-08-13T00:00:00-07:00">
+											<span class="day">13</span>
+											<span class="month">Aug</span>
+										</time>
+T&#8217;s in Park City at Brandi Carlile afterparty!										<h5>Park City, UT</h5>
+										<h4>O.P. Rockwell</h4>
+									</a>
+								</li>
+
+															
+								<li class="event">
+									<a href="http://tsisters.com/shows/ts-crestone-music-festival/" >
+										<time class="event-time" datetime="2016-08-12T00:00:00-07:00">
+											<span class="day">12</span>
+											<span class="month">Aug</span>
+										</time>
+T&#8217;s at Crestone Music Festival!										<h5>Crestone, CO</h5>
+										<h4>Crestone Music Festival</h4>
+									</a>
+								</li>
+
+															
+								<li class="event">
+									<a href="http://tsisters.com/shows/ts-boulder-just-added/" >
+										<time class="event-time" datetime="2016-08-11T00:00:00-07:00">
+											<span class="day">11</span>
+											<span class="month">Aug</span>
+										</time>
+T&#8217;s in Boulder&#8211;just added!										<h5>Boulder, CO</h5>
+										<h4>House concert</h4>
+									</a>
+								</li>
+
+															
+								<li class="event">
+									<a href="http://tsisters.com/shows/ts-fort-collins/" >
+										<time class="event-time" datetime="2016-08-10T00:00:00-07:00">
+											<span class="day">10</span>
+											<span class="month">Aug</span>
+										</time>
+T&#8217;s in Fort Collins!										<h5>Fort Collins, CO</h5>
+										<h4>Hodi's Half Note</h4>
+									</a>
+								</li>
+
+							
+						</ol>
+					</div>
+
+					<div class="event-pagination">		<div 
+			id="paging" 
+			class="navigation group"		>
+			<span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://tsisters.com/shows/page/2/'>2</a>
+<a class='page-numbers' href='http://tsisters.com/shows/page/3/'>3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://tsisters.com/shows/page/32/'>32</a>
+<a class="next page-numbers" href="http://tsisters.com/shows/page/2/">Next &raquo;</a>		</div>
+	</div>
+							</div> <!-- content -->
+
+			<div class="sidebar col-sm-4 col-md-3">
+				<div id="ci_post_type_widget-12" class="widget_ci_post_type_widget widget group"><h3 class="widget-title">New EP</h3>
+			
+			<div class="item post-2245 cpt_discography type-cpt_discography status-publish has-post-thumbnail hentry section-eps">
+				<figure class="item-thumb">
+											<a href="http://tsisters.com/discography/ready-for-love/" >
+							<img width="700" height="700" src="http://tsisters.com/wp-content/uploads/front_sq-700x700.jpg" class="attachment-ci_thumb size-ci_thumb wp-post-image" alt="front_sq" srcset="http://tsisters.com/wp-content/uploads/front_sq-700x700.jpg 700w, http://tsisters.com/wp-content/uploads/front_sq-150x150.jpg 150w, http://tsisters.com/wp-content/uploads/front_sq-300x300.jpg 300w, http://tsisters.com/wp-content/uploads/front_sq-1024x1024.jpg 1024w, http://tsisters.com/wp-content/uploads/front_sq-100x100.jpg 100w, http://tsisters.com/wp-content/uploads/front_sq-90x90.jpg 90w, http://tsisters.com/wp-content/uploads/front_sq-250x250.jpg 250w, http://tsisters.com/wp-content/uploads/front_sq-200x200.jpg 200w, http://tsisters.com/wp-content/uploads/front_sq.jpg 1501w" sizes="(max-width: 700px) 100vw, 700px" />						</a>
+						<a class="item-more" href="http://tsisters.com/discography/ready-for-love/">Read More »</a>
+					
+									</figure>
+
+				<h4 class="item-title"><a href="http://tsisters.com/discography/ready-for-love/" >Ready For Love</a></h4>
+
+									<p class="item-subtitle">Spruce and Maple</p>
+							</div> <!-- .item -->
+			</div><div id="ci_post_type_widget-13" class="widget_ci_post_type_widget widget group"><h3 class="widget-title">Featured Gallery</h3>
+			
+			<div class="item post-2285 cpt_gallery type-cpt_gallery status-publish has-post-thumbnail hentry gallery-category-photoshoots">
+				<figure class="item-thumb">
+											<a href="http://tsisters.com/galleries/studio-shots-with-parke-claude/" >
+							<img width="700" height="700" src="http://tsisters.com/wp-content/uploads/TSisters-11162612-700x700.jpg" class="attachment-ci_thumb size-ci_thumb wp-post-image" alt="TSisters 11162612" srcset="http://tsisters.com/wp-content/uploads/TSisters-11162612-700x700.jpg 700w, http://tsisters.com/wp-content/uploads/TSisters-11162612-150x150.jpg 150w, http://tsisters.com/wp-content/uploads/TSisters-11162612-300x300.jpg 300w, http://tsisters.com/wp-content/uploads/TSisters-11162612-100x100.jpg 100w, http://tsisters.com/wp-content/uploads/TSisters-11162612-90x90.jpg 90w, http://tsisters.com/wp-content/uploads/TSisters-11162612-250x250.jpg 250w, http://tsisters.com/wp-content/uploads/TSisters-11162612.jpg 827w" sizes="(max-width: 700px) 100vw, 700px" />						</a>
+						<a class="item-more" href="http://tsisters.com/galleries/studio-shots-with-parke-claude/">Read More »</a>
+					
+									</figure>
+
+				<h4 class="item-title"><a href="http://tsisters.com/galleries/studio-shots-with-parke-claude/" >Studio Shots with ParkShade</a></h4>
+
+									<p class="item-subtitle">San Francisco, CA</p>
+							</div> <!-- .item -->
+			</div>			</div>
+		</div>
+	</div>
+</main>
+
+
+<footer id="footer">
+	<div class="footer-inner">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 col-md-3">
+					<div id="aptfinbytap_domain-2" class="APTFIN_by_TAP widget group"><h3 class="widget-title">T Sisters on Instagram</h3><!-- Using AlpinePT for Instagram v1.2.7 with JSON--><!-- Request made --><!-- Success using wp_remote_get() and JSON --><div id="aptfinbytap_domain-2-AlpinePhotoTiles_container" class="AlpinePhotoTiles_container_class"><div id="aptfinbytap_domain-2-hidden-parent" class="AlpinePhotoTiles_parent_class" style="width:100%;max-width:100%;padding:0px;margin:0px auto;text-align:center;"><div id="aptfinbytap_domain-2-image-list" class="AlpinePhotoTiles_image_list_class" style="display:none;visibility:hidden;"><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14288207_1811433879091520_1100599600_n.jpg?ig_cache_key=MTMzNDUwODI2OTA1MDA3Mjc5MA%3D%3D.2.l" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" That&#039;s a wrap folks! Can&#039;t wait to show you the new video soon! Thanks @hairdoktors for the styling and @tylorbohlman for the shooting and ! #Tsisalbum #Tsisstyle #roof #sanfrancisco " alt=" That&#039;s a wrap folks! Can&#039;t wait to show you the new video soon! Thanks @hairdoktors for the styling and @tylorbohlman for the shooting and ! #Tsisalbum #Tsisstyle #roof #sanfrancisco "><img id="aptfinbytap_domain-2-tile-0" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/l/t51.2885-15/s150x150/e35/c135.0.809.809/14278870_547878642079339_616738001_n.jpg?ig_cache_key=MTMzNDUwODI2OTA1MDA3Mjc5MA%3D%3D.2.c" title=" That&#039;s a wrap folks! Can&#039;t wait to show you the new video soon! Thanks @hairdoktors for the styling and @tylorbohlman for the shooting and ! #Tsisalbum #Tsisstyle #roof #sanfrancisco " alt=" That&#039;s a wrap folks! Can&#039;t wait to show you the new video soon! Thanks @hairdoktors for the styling and @tylorbohlman for the shooting and ! #Tsisalbum #Tsisstyle #roof #sanfrancisco " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14269152_1228450450531276_1833744678_n.jpg?ig_cache_key=MTMzNDM1MzE3NjI3MTA2NTkyMA%3D%3D.2" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" #styled #makeup #hairdid #videoshoot #dadalife " alt=" #styled #makeup #hairdid #videoshoot #dadalife "><img id="aptfinbytap_domain-2-tile-1" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/14269152_1228450450531276_1833744678_n.jpg?ig_cache_key=MTMzNDM1MzE3NjI3MTA2NTkyMA%3D%3D.2" title=" #styled #makeup #hairdid #videoshoot #dadalife " alt=" #styled #makeup #hairdid #videoshoot #dadalife " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14262746_607573009420788_1202507710_n.jpg?ig_cache_key=MTMzMzQ4OTc5NDkyMzk2MTk2Ng%3D%3D.2" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" BIG NEWS! You can NOW pre-order our new album and get a FREE download of single &#039;The Road&#039;!!  Album is out October 14th!!  link in bio! #Tsisalbum " alt=" BIG NEWS! You can NOW pre-order our new album and get a FREE download of single &#039;The Road&#039;!!  Album is out October 14th!!  link in bio! #Tsisalbum "><img id="aptfinbytap_domain-2-tile-2" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/14262746_607573009420788_1202507710_n.jpg?ig_cache_key=MTMzMzQ4OTc5NDkyMzk2MTk2Ng%3D%3D.2" title=" BIG NEWS! You can NOW pre-order our new album and get a FREE download of single &#039;The Road&#039;!!  Album is out October 14th!!  link in bio! #Tsisalbum " alt=" BIG NEWS! You can NOW pre-order our new album and get a FREE download of single &#039;The Road&#039;!!  Album is out October 14th!!  link in bio! #Tsisalbum " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14134855_905152862923357_2069551429_n.jpg?ig_cache_key=MTMzMjc3MjU1MjQ4MTU2NzE3Ng%3D%3D.2.l" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" Big fun at @strawberry_music_festival this weekend hanging w/ pals from @leftoversalmonmusic, @mandolin_orange, @thelittlefullerband and more, and sitting in with our brothers from another mother @broscomatose! Fall shows are here! 9.9 Oakland, CA - VIP album listening party 9.10 Fallon, NV - @performingartschurchill 9.16-9.17 Coloma, CA - #AmericanRivermusicfestival 9.18 Norden, CA - #Trails&amp;Vistas Art Hike 9.22 Hayfork, CA - @northerndelightscoffeehouse 9.23 Ashland, OR - @brittfestival with @hollispeach 9.24 Sisters, OR - #TheBelfry with @dustbowlrevival 9.25 Eugene, OR - TBD 9.29 Oakland, CA - @hardlystrictlybluegrass Pre-party #varietyshow 10.1 Guinda, CA - #HoesDownHarvestFestival 10.14 San Francisco, CA - Album release at @thechapelsf! 10.15 Cayucos, CA - FREE show on the pier with The Brothers Comatose #tsistour #Tsandfriends ✨DEETS at tsisters.com/shows ✨ " alt=" Big fun at @strawberry_music_festival this weekend hanging w/ pals from @leftoversalmonmusic, @mandolin_orange, @thelittlefullerband and more, and sitting in with our brothers from another mother @broscomatose! Fall shows are here! 9.9 Oakland, CA - VIP album listening party 9.10 Fallon, NV - @performingartschurchill 9.16-9.17 Coloma, CA - #AmericanRivermusicfestival 9.18 Norden, CA - #Trails&amp;Vistas Art Hike 9.22 Hayfork, CA - @northerndelightscoffeehouse 9.23 Ashland, OR - @brittfestival with @hollispeach 9.24 Sisters, OR - #TheBelfry with @dustbowlrevival 9.25 Eugene, OR - TBD 9.29 Oakland, CA - @hardlystrictlybluegrass Pre-party #varietyshow 10.1 Guinda, CA - #HoesDownHarvestFestival 10.14 San Francisco, CA - Album release at @thechapelsf! 10.15 Cayucos, CA - FREE show on the pier with The Brothers Comatose #tsistour #Tsandfriends ✨DEETS at tsisters.com/shows ✨ "><img id="aptfinbytap_domain-2-tile-3" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.134.1080.1080/14145535_182359488840064_1796594163_n.jpg?ig_cache_key=MTMzMjc3MjU1MjQ4MTU2NzE3Ng%3D%3D.2.c" title=" Big fun at @strawberry_music_festival this weekend hanging w/ pals from @leftoversalmonmusic, @mandolin_orange, @thelittlefullerband and more, and sitting in with our brothers from another mother @broscomatose! Fall shows are here! 9.9 Oakland, CA - VIP album listening party 9.10 Fallon, NV - @performingartschurchill 9.16-9.17 Coloma, CA - #AmericanRivermusicfestival 9.18 Norden, CA - #Trails&amp;Vistas Art Hike 9.22 Hayfork, CA - @northerndelightscoffeehouse 9.23 Ashland, OR - @brittfestival with @hollispeach 9.24 Sisters, OR - #TheBelfry with @dustbowlrevival 9.25 Eugene, OR - TBD 9.29 Oakland, CA - @hardlystrictlybluegrass Pre-party #varietyshow 10.1 Guinda, CA - #HoesDownHarvestFestival 10.14 San Francisco, CA - Album release at @thechapelsf! 10.15 Cayucos, CA - FREE show on the pier with The Brothers Comatose #tsistour #Tsandfriends ✨DEETS at tsisters.com/shows ✨ " alt=" Big fun at @strawberry_music_festival this weekend hanging w/ pals from @leftoversalmonmusic, @mandolin_orange, @thelittlefullerband and more, and sitting in with our brothers from another mother @broscomatose! Fall shows are here! 9.9 Oakland, CA - VIP album listening party 9.10 Fallon, NV - @performingartschurchill 9.16-9.17 Coloma, CA - #AmericanRivermusicfestival 9.18 Norden, CA - #Trails&amp;Vistas Art Hike 9.22 Hayfork, CA - @northerndelightscoffeehouse 9.23 Ashland, OR - @brittfestival with @hollispeach 9.24 Sisters, OR - #TheBelfry with @dustbowlrevival 9.25 Eugene, OR - TBD 9.29 Oakland, CA - @hardlystrictlybluegrass Pre-party #varietyshow 10.1 Guinda, CA - #HoesDownHarvestFestival 10.14 San Francisco, CA - Album release at @thechapelsf! 10.15 Cayucos, CA - FREE show on the pier with The Brothers Comatose #tsistour #Tsandfriends ✨DEETS at tsisters.com/shows ✨ " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14240537_766141166861838_625875249_n.jpg?ig_cache_key=MTMzMDgzMzYzNjEwMjg1NzUwNg%3D%3D.2.l" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" These #twins are #Bartending tonight at newly opened bike shop/bar/cafe @luckyduckoakland come on by for some drinks and good times! #bikeparty " alt=" These #twins are #Bartending tonight at newly opened bike shop/bar/cafe @luckyduckoakland come on by for some drinks and good times! #bikeparty "><img id="aptfinbytap_domain-2-tile-4" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c135.0.810.810/14134716_1581929378778571_795439683_n.jpg?ig_cache_key=MTMzMDgzMzYzNjEwMjg1NzUwNg%3D%3D.2.c" title=" These #twins are #Bartending tonight at newly opened bike shop/bar/cafe @luckyduckoakland come on by for some drinks and good times! #bikeparty " alt=" These #twins are #Bartending tonight at newly opened bike shop/bar/cafe @luckyduckoakland come on by for some drinks and good times! #bikeparty " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13687242_317674328580911_727355682_n.jpg?ig_cache_key=MTMyODU3NzgzMTg1Mjk1MDM2Mg%3D%3D.2.l" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" Limited tix on sale NOW for our #VIP listening party on 9.9 for upcoming self-titled album out October 14th! Grab tix at tsisters.com today! Gourmet snacks, delicious beverages, and a first listen to the new album in a bohemian #Oakland location. #tsisalbum #sassysisters " alt=" Limited tix on sale NOW for our #VIP listening party on 9.9 for upcoming self-titled album out October 14th! Grab tix at tsisters.com today! Gourmet snacks, delicious beverages, and a first listen to the new album in a bohemian #Oakland location. #tsisalbum #sassysisters "><img id="aptfinbytap_domain-2-tile-5" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.96.764.764/13827349_1086505301441930_96308579_n.jpg?ig_cache_key=MTMyODU3NzgzMTg1Mjk1MDM2Mg%3D%3D.2.c" title=" Limited tix on sale NOW for our #VIP listening party on 9.9 for upcoming self-titled album out October 14th! Grab tix at tsisters.com today! Gourmet snacks, delicious beverages, and a first listen to the new album in a bohemian #Oakland location. #tsisalbum #sassysisters " alt=" Limited tix on sale NOW for our #VIP listening party on 9.9 for upcoming self-titled album out October 14th! Grab tix at tsisters.com today! Gourmet snacks, delicious beverages, and a first listen to the new album in a bohemian #Oakland location. #tsisalbum #sassysisters " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13671780_1611543452471654_1520870390_n.jpg?ig_cache_key=MTMyNTczMzA4MjUwMjczOTk2MQ%3D%3D.2" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" Is there anything cuter than a passel of pups? Nope. #puppies #doglovers #vacation  " alt=" Is there anything cuter than a passel of pups? Nope. #puppies #doglovers #vacation  "><img id="aptfinbytap_domain-2-tile-6" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/13671780_1611543452471654_1520870390_n.jpg?ig_cache_key=MTMyNTczMzA4MjUwMjczOTk2MQ%3D%3D.2" title=" Is there anything cuter than a passel of pups? Nope. #puppies #doglovers #vacation  " alt=" Is there anything cuter than a passel of pups? Nope. #puppies #doglovers #vacation  " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14099849_1757319561205810_408173897_n.jpg?ig_cache_key=MTMyNDgxNzgxMjk1OTM1MjY0NQ%3D%3D.2" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" Enjoying our #vacation in #russianriver, tromping through the streets of Guerneville in our matching #danskos, like we do. #practicalchic #tankgirl #Tsisstyle  by @tsfitness " alt=" Enjoying our #vacation in #russianriver, tromping through the streets of Guerneville in our matching #danskos, like we do. #practicalchic #tankgirl #Tsisstyle  by @tsfitness "><img id="aptfinbytap_domain-2-tile-7" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/14099849_1757319561205810_408173897_n.jpg?ig_cache_key=MTMyNDgxNzgxMjk1OTM1MjY0NQ%3D%3D.2" title=" Enjoying our #vacation in #russianriver, tromping through the streets of Guerneville in our matching #danskos, like we do. #practicalchic #tankgirl #Tsisstyle  by @tsfitness " alt=" Enjoying our #vacation in #russianriver, tromping through the streets of Guerneville in our matching #danskos, like we do. #practicalchic #tankgirl #Tsisstyle  by @tsfitness " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13696872_151377931971506_202858527_n.jpg?ig_cache_key=MTMyNDM3MzM1Njg3NTQxMTY0Nw%3D%3D.2" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" Tietjen and Morrison clans getting down + @bassballsteve of course ⚾️ #vacation #familytime @broscomatose #pupshaw #momsanddads " alt=" Tietjen and Morrison clans getting down + @bassballsteve of course ⚾️ #vacation #familytime @broscomatose #pupshaw #momsanddads "><img id="aptfinbytap_domain-2-tile-8" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/13696872_151377931971506_202858527_n.jpg?ig_cache_key=MTMyNDM3MzM1Njg3NTQxMTY0Nw%3D%3D.2" title=" Tietjen and Morrison clans getting down + @bassballsteve of course ⚾️ #vacation #familytime @broscomatose #pupshaw #momsanddads " alt=" Tietjen and Morrison clans getting down + @bassballsteve of course ⚾️ #vacation #familytime @broscomatose #pupshaw #momsanddads " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13651722_546353938902342_764394017_n.jpg?ig_cache_key=MTMyMzM5MTEzMTY3Nzg3Nzk1OA%3D%3D.2.l" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" SO excited to announce our ALBUM RELEASE party at @thechapelsf on Friday, October 14th! Discounted early bird tix available now! Talented locals @quilesandcloud open the show. Share/tag friends please! Ticket link in bio. See ya there! #Tsisalbum #albumrelease  by @elenakulikovastudio, poster by @raeraetie " alt=" SO excited to announce our ALBUM RELEASE party at @thechapelsf on Friday, October 14th! Discounted early bird tix available now! Talented locals @quilesandcloud open the show. Share/tag friends please! Ticket link in bio. See ya there! #Tsisalbum #albumrelease  by @elenakulikovastudio, poster by @raeraetie "><img id="aptfinbytap_domain-2-tile-9" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.97.774.774/14052440_310304645989413_213644144_n.jpg?ig_cache_key=MTMyMzM5MTEzMTY3Nzg3Nzk1OA%3D%3D.2.c" title=" SO excited to announce our ALBUM RELEASE party at @thechapelsf on Friday, October 14th! Discounted early bird tix available now! Talented locals @quilesandcloud open the show. Share/tag friends please! Ticket link in bio. See ya there! #Tsisalbum #albumrelease  by @elenakulikovastudio, poster by @raeraetie " alt=" SO excited to announce our ALBUM RELEASE party at @thechapelsf on Friday, October 14th! Discounted early bird tix available now! Talented locals @quilesandcloud open the show. Share/tag friends please! Ticket link in bio. See ya there! #Tsisalbum #albumrelease  by @elenakulikovastudio, poster by @raeraetie " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/13658697_1641973572798143_1641260951_n.jpg?ig_cache_key=MTMyMjYyMzc1Nzk3NDMwMTc3Nw%3D%3D.2.l" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" Happy 30th birthday to Rachel and Chloe, my little twisters, the heart and soul of the band!  " alt=" Happy 30th birthday to Rachel and Chloe, my little twisters, the heart and soul of the band!  "><img id="aptfinbytap_domain-2-tile-10" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c100.0.404.404/14026624_748005915365189_1299612255_n.jpg?ig_cache_key=MTMyMjYyMzc1Nzk3NDMwMTc3Nw%3D%3D.2.c" title=" Happy 30th birthday to Rachel and Chloe, my little twisters, the heart and soul of the band!  " alt=" Happy 30th birthday to Rachel and Chloe, my little twisters, the heart and soul of the band!  " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14072998_587091591470258_704855752_n.jpg?ig_cache_key=MTMyMjI0NTg4MTA3MjU4NzEyMw%3D%3D.2.l" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" Only wanna see you laughin&#039; in the purple rain..happy Sunday from the #chthonictheater crew at the #Prince #varietyshow!   by Lia Gaertner " alt=" Only wanna see you laughin&#039; in the purple rain..happy Sunday from the #chthonictheater crew at the #Prince #varietyshow!   by Lia Gaertner "><img id="aptfinbytap_domain-2-tile-11" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c236.0.608.608/14072791_149012125540132_806270355_n.jpg?ig_cache_key=MTMyMjI0NTg4MTA3MjU4NzEyMw%3D%3D.2.c" title=" Only wanna see you laughin&#039; in the purple rain..happy Sunday from the #chthonictheater crew at the #Prince #varietyshow!   by Lia Gaertner " alt=" Only wanna see you laughin&#039; in the purple rain..happy Sunday from the #chthonictheater crew at the #Prince #varietyshow!   by Lia Gaertner " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/13651901_640341926124559_1798803385_n.jpg?ig_cache_key=MTMxOTc4NzY5NjQ3MDM4ODA5Nw%3D%3D.2.l" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" #tbt to singing with the talented #laurielewis to our #water #varietyshow last year. Looking forward to collaborating with Laurie at #americanrivermusicfestival 9.16-9.17! #Tsandfriends #eartrumpetlabs " alt=" #tbt to singing with the talented #laurielewis to our #water #varietyshow last year. Looking forward to collaborating with Laurie at #americanrivermusicfestival 9.16-9.17! #Tsandfriends #eartrumpetlabs "><img id="aptfinbytap_domain-2-tile-12" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.32.500.500/13658573_1182935115103782_1209843586_n.jpg?ig_cache_key=MTMxOTc4NzY5NjQ3MDM4ODA5Nw%3D%3D.2.c" title=" #tbt to singing with the talented #laurielewis to our #water #varietyshow last year. Looking forward to collaborating with Laurie at #americanrivermusicfestival 9.16-9.17! #Tsandfriends #eartrumpetlabs " alt=" #tbt to singing with the talented #laurielewis to our #water #varietyshow last year. Looking forward to collaborating with Laurie at #americanrivermusicfestival 9.16-9.17! #Tsandfriends #eartrumpetlabs " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14026775_1730916053825688_829128152_n.jpg?ig_cache_key=MTMxOTM0MzQzODkzNjQyMDAwOQ%3D%3D.2" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" Swanky night out w/ Ben of @broscomatose at @thebatterysf -- bring on the secret walls and fancy cocktails! #magikmagikorchestra was amazing! It was a treat to sing a tune and soak in this whole lovely evening. " alt=" Swanky night out w/ Ben of @broscomatose at @thebatterysf -- bring on the secret walls and fancy cocktails! #magikmagikorchestra was amazing! It was a treat to sing a tune and soak in this whole lovely evening. "><img id="aptfinbytap_domain-2-tile-13" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/14026775_1730916053825688_829128152_n.jpg?ig_cache_key=MTMxOTM0MzQzODkzNjQyMDAwOQ%3D%3D.2" title=" Swanky night out w/ Ben of @broscomatose at @thebatterysf -- bring on the secret walls and fancy cocktails! #magikmagikorchestra was amazing! It was a treat to sing a tune and soak in this whole lovely evening. " alt=" Swanky night out w/ Ben of @broscomatose at @thebatterysf -- bring on the secret walls and fancy cocktails! #magikmagikorchestra was amazing! It was a treat to sing a tune and soak in this whole lovely evening. " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13643676_949415501852400_1473116617_n.jpg?ig_cache_key=MTMxOTE1MjM3MTMxODQ3OTk4MA%3D%3D.2" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" SO excited for our river trip with @artarivertrips at the end of August! Only 2 spots left y&#039;all! Tsisters.com/shows for deets. See you on the river! #riverTs #tuolumne #tsonthetuolumne @jennerfoxmusic ✨ " alt=" SO excited for our river trip with @artarivertrips at the end of August! Only 2 spots left y&#039;all! Tsisters.com/shows for deets. See you on the river! #riverTs #tuolumne #tsonthetuolumne @jennerfoxmusic ✨ "><img id="aptfinbytap_domain-2-tile-14" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/13643676_949415501852400_1473116617_n.jpg?ig_cache_key=MTMxOTE1MjM3MTMxODQ3OTk4MA%3D%3D.2" title=" SO excited for our river trip with @artarivertrips at the end of August! Only 2 spots left y&#039;all! Tsisters.com/shows for deets. See you on the river! #riverTs #tuolumne #tsonthetuolumne @jennerfoxmusic ✨ " alt=" SO excited for our river trip with @artarivertrips at the end of August! Only 2 spots left y&#039;all! Tsisters.com/shows for deets. See you on the river! #riverTs #tuolumne #tsonthetuolumne @jennerfoxmusic ✨ " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13658505_288191048209422_1578220230_n.jpg?ig_cache_key=MTMxNjg2Mzk5NzAxNDY5MjgyMg%3D%3D.2.l" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" Headed home across the Bonneville Salt Flats! Great times in CO and UT but there&#039;s no place like home... #tsistour #saltymama  thanks to #sunskis for protecting Steve&#039;s precious eyeballs " alt=" Headed home across the Bonneville Salt Flats! Great times in CO and UT but there&#039;s no place like home... #tsistour #saltymama  thanks to #sunskis for protecting Steve&#039;s precious eyeballs "><img id="aptfinbytap_domain-2-tile-15" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c135.0.810.810/13671713_1711630842432866_483270974_n.jpg?ig_cache_key=MTMxNjg2Mzk5NzAxNDY5MjgyMg%3D%3D.2.c" title=" Headed home across the Bonneville Salt Flats! Great times in CO and UT but there&#039;s no place like home... #tsistour #saltymama  thanks to #sunskis for protecting Steve&#039;s precious eyeballs " alt=" Headed home across the Bonneville Salt Flats! Great times in CO and UT but there&#039;s no place like home... #tsistour #saltymama  thanks to #sunskis for protecting Steve&#039;s precious eyeballs " border="0" hspace="0" vspace="0" style=""  /></a><a href="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13652208_1797570270472159_1558239332_n.jpg?ig_cache_key=MTMxNjUwNjYzNzg1OTUzNjM0OA%3D%3D.2.l" class="AlpinePhotoTiles-link AlpinePhotoTiles-lightbox" title=" So excited that @siriusxm will be featuring our new single &#039;The Road&#039; this am on The Village Folk Show w/ @marysuetwohy, Channel 32, 6-10am EST. Tune in &amp; share w/ friends please! http://bit.ly/Tsissirius " alt=" So excited that @siriusxm will be featuring our new single &#039;The Road&#039; this am on The Village Folk Show w/ @marysuetwohy, Channel 32, 6-10am EST. Tune in &amp; share w/ friends please! http://bit.ly/Tsissirius "><img id="aptfinbytap_domain-2-tile-16" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-noshadow AlpinePhotoTiles-img-border AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-highlight" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c181.0.718.718/13767684_1191636530877696_78733049_n.jpg?ig_cache_key=MTMxNjUwNjYzNzg1OTUzNjM0OA%3D%3D.2.c" title=" So excited that @siriusxm will be featuring our new single &#039;The Road&#039; this am on The Village Folk Show w/ @marysuetwohy, Channel 32, 6-10am EST. Tune in &amp; share w/ friends please! http://bit.ly/Tsissirius " alt=" So excited that @siriusxm will be featuring our new single &#039;The Road&#039; this am on The Village Folk Show w/ @marysuetwohy, Channel 32, 6-10am EST. Tune in &amp; share w/ friends please! http://bit.ly/Tsissirius " border="0" hspace="0" vspace="0" style=""  /></a></div><div id="aptfinbytap_domain-2-by-link" class="AlpinePhotoTiles-by-link"><a href="http://thealpinepress.com/" style="COLOR:#C0C0C0;text-decoration:none;" title="Widget by The Alpine Press">TAP</a></div></div></div><script type='text/javascript'><!--//--><![CDATA[//><!--		//Check for jQuery
+		// Note: window.jQuery same as typeof jQuery !== 'undefined'
+		if( window.jQuery ){
+			jQuery(document).ready(function() {
+				jQuery('#aptfinbytap_domain-2-AlpinePhotoTiles_container').addClass('loading');
+			});
+		}		//Use self invoking function expression
+		(function(){
+			// Wait for window to load. Them start plugin.
+			var alpinePluginLoadingFunction = function(method){
+				// Check for jQuery and on() ( jQuery 1.7+ )
+				if(window.jQuery){
+					if(jQuery.isFunction( jQuery(window).on )){
+						jQuery(window).on('load', method);
+					// Check for jQuery and bind()
+					}else{jQuery(window).bind('load', method);}
+				// Check for addEventListener
+				}else if( window.addEventListener ){
+					window.addEventListener('load', method, false);
+				// Check for attachEvent
+				}else if ( window.attachEvent ){
+					window.attachEvent('on' + 'load', method);
+				}
+			};
+			alpinePluginLoadingFunction( function(){
+				if( window.jQuery ){jQuery('#aptfinbytap_domain-2-AlpinePhotoTiles_container').removeClass('loading');
+				var alpineLoadPlugin = function(){jQuery('#aptfinbytap_domain-2-hidden-parent').AlpinePhotoTilesPlugin({
+						id:'aptfinbytap_domain-2',
+						style:'wall',
+						shape:'square',
+						perRow:4,
+						imageBorder:1,
+						imageShadow:0,
+						imageCurve:0,
+						imageHighlight:1,
+						lightbox:1,
+						galleryHeight:0,//Keep for Compatibility
+						galRatioWidth:800,
+						galRatioHeight:600,
+						highlight:'#64a2d8',
+						pinIt:0,
+						siteURL:'http://tsisters.com',
+						callback:function(){jQuery( '#aptfinbytap_domain-2-AlpinePhotoTiles_container a.AlpinePhotoTiles-lightbox' ).attr( 'rel', 'alpine-fancybox-safemode-aptfinbytap_domain-2' );if(jQuery().fancyboxForAlpine){jQuery( 'a[rel^=\'alpine-fancybox-safemode-aptfinbytap_domain-2\']' ).fancyboxForAlpine( { titleShow: false, overlayOpacity: .8, overlayColor: '#000', titleShow: true, titlePosition: 'inside' } );}}
+					});}
+				// Load Alpine Plugin
+				if( jQuery().AlpinePhotoTilesPlugin ){
+					alpineLoadPlugin();
+				}else{ // Load Alpine Script and Style
+					var css = 'http://tsisters.com/wp-content/plugins/alpine-photo-tile-for-instagram/css/AlpinePhotoTiles_style.css';
+					var link = jQuery(document.createElement('link')).attr({'rel':'stylesheet','href':css,'type':'text/css','media':'screen'});
+					jQuery.getScript('http://tsisters.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/AlpinePhotoTiles_script.js', function(){
+						if(document.createStyleSheet){
+							document.createStyleSheet(css);
+						}else{
+							jQuery('head').append(link);
+						}if( !jQuery().fancyboxForAlpine ){//Load Lightbox
+							jQuery.getScript('http://tsisters.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/fancybox-alpine-safemode/jquery.fancyboxForAlpine-1.3.4.pack.js?ver=1.3.4', function(){
+								css = 'http://tsisters.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/fancybox-alpine-safemode/jquery.fancyboxForAlpine-1.3.4.css?ver=1.3.4';
+								link = jQuery(document.createElement('link')).attr({'rel':'stylesheet','href':css,'type':'text/css','media':'screen'});
+								if(document.createStyleSheet){
+									document.createStyleSheet(css);
+								}else{
+									jQuery('head').append(link);
+								}
+								alpineLoadPlugin();
+							}); // Close getScript
+						}else{alpineLoadPlugin();}});// Close getScript
+				}}else{ console.log('Alpine plugin failed because jQuery never loaded'); }
+			});
+		})();//--><!]]> </script></div>				</div>
+
+				<div class="col-sm-6 col-md-3">
+					<div id="ci_twitter_widget-2" class="widget_ci_twitter_widget widget group"><h3 class="widget-title">T-Tweets!</h3><div class="citwitterwidget2  tul"><ul><li><span>That's a wrap folks! Can't wait to show you the new video soon! Thanks hairdoktors for the… <a href="https://t.co/jrvWTQdoMC">https://t.co/jrvWTQdoMC</a></span> <a class="twitter-time" href="http://twitter.com/TSistersmusic/statuses/773726744578752513">6 hours ago</a></li><li><span>'Come Back Down' music video shoot part 2. Here we go! #Tsisalbum <a href="https://t.co/9JwOOiOb7l">https://t.co/9JwOOiOb7l</a></span> <a class="twitter-time" href="http://twitter.com/TSistersmusic/statuses/773632690885099521">12 hours ago</a></li><li><span>Thanks <a href="http://twitter.com/KFOGRadio">@KFOGRadio</a> for playing single 'Come Back Down' from our upcoming self-titled album (out 10.14) on Acoustic Sunrise this past Sunday!</span> <a class="twitter-time" href="http://twitter.com/TSistersmusic/statuses/773327983247372288">1 day ago</a></li></ul></div></div>				</div>
+
+				<div class="col-sm-6 col-md-3">
+					<div id="text-11" class="widget_text widget group"><h3 class="widget-title">Contact Info</h3>			<div class="textwidget"><p><b>General Contact:</b><br />
+<a href="mailto:tsistersmusic@gmail.com">tsistersmusic@gmail.com</a><br />
+<a href="/contact/">Contact Form &#187;</a></p>
+<p><b>Booking - Prater Day</b><br />
+Curtis Geren - <a href="mailto:curtis@praterday.com">curtis@praterday.com</a></p>
+<p><b>Management - MET Artists Management</b><br />
+Matthew Thompson - <a href="mailto:matthew@metartists.com">matthew@metartists.com</a> </p>
+</div>
+		</div>				</div>
+
+				<div class="col-sm-6 col-md-3">
+					<div id="text-12" class="widget_text widget group"><h3 class="widget-title">Newsletter Signup</h3>			<div class="textwidget"><div class="signup">
+<div id="mc_embed_signup">
+<form action="http://chthonictheater.us1.list-manage.com/subscribe/post?u=9fb547a046b7945507b3daf60&id=3d852e229b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+	<input type="email" value="" title="Subscribe to the mailing list for info about shows, upcoming releases and other shenanigans." name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter Email" required>
+	<input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button">
+</form>
+</div></div></div>
+		</div><div id="socials-ignited-2" class="widget_socials_ignited widget group"><h3 class="widget-title">Connect with us</h3><div class="ci-socials-ignited ci-socials-ignited-fa"><a href="http://facebook.com/tsisters" target="_blank"  ><i class="fa fa-facebook"></i></a><a href="http://youtube.com/user/tsistersmusic" target="_blank"  title="T Sisters Youtube"><i class="fa fa-youtube"></i></a><a href="http://instagram.com/tsisters" target="_blank"  title="T Sisters Instagram"><i class="fa fa-instagram"></i></a><a href="http://twitter.com/tsistersmusic" target="_blank"  title="T Sisters Twitter"><i class="fa fa-twitter"></i></a><a href="https://plus.google.com/111059237610179931811" target="_blank"  title="T Sisters Google+"><i class="fa fa-google-plus"></i></a></div></div><div id="search-3" class="widget_search widget group"><h3 class="widget-title">Search this site</h3><form action="http://tsisters.com/" class="searchform" method="get" role="search">
+	<div>
+		<label for="s" class="screen-reader-text">Search for:</label> <input type="text" placeholder="Search" id="s" name="s" value="">
+		<button class="searchsubmit" type="submit"><i class="fa fa-search"></i></button>
+	</div>
+</form></div>				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="copy">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					Sibling Harmony from Oakland Californa				</div>
+				<div class="col-sm-6 text-right">
+					© T Sisters 2016				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+</div> <!-- #page -->
+
+<link rel='stylesheet' id='alpine-fancybox-stylesheet-css'  href='http://tsisters.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/fancybox-alpine-safemode/jquery.fancyboxForAlpine-1.3.4.css?ver=4.6.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='AlpinePhotoTiles_style-css'  href='http://tsisters.com/wp-content/plugins/alpine-photo-tile-for-instagram/css/AlpinePhotoTiles_style.css?ver=1.2.7' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/shows\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/tsisters.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//tsisters.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.4'></script>
+<script type='text/javascript' src='//tsisters.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/shows\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//tsisters.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.4'></script>
+<script type='text/javascript' src='//tsisters.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/shows\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//tsisters.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/js/jquery.prettyPhoto.js?ver=3.1.5'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/t-sisters-new/js/global.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-includes/js/comment-reply.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/js/superfish.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/js/jquery.mmenu.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/js/jquery.flexslider-min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/js/jquery.iosslider.min.js?ver=1.3.28'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/js/isotope.pkgd.min.js?ver=2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ThemeOption = {"theme_url":"http:\/\/tsisters.com\/wp-content\/themes\/wp_berliner5-v1.1.2","slider_auto":"","swfPath":"http:\/\/tsisters.com\/wp-content\/themes\/wp_berliner5-v1.1.2\/js\/swf\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/js/scripts.js?ver=1.1.2'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/panel/scripts/retina.1.3.0.min.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/fancybox-alpine-safemode/jquery.fancyboxForAlpine-1.3.4.pack.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://tsisters.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/AlpinePhotoTiles_script.js?ver=1.2.7'></script>
+	<!--[if (gte IE 6)&(lte IE 8)]>
+		<script type="text/javascript" src="http://tsisters.com/wp-content/themes/wp_berliner5-v1.1.2/panel/scripts/selectivizr-min.js"></script>
+	<![endif]-->
+	</body>
+</html>
+
+
+Moonsville Collective
+--------------------------------------------
+Pioneertown, CA
+	Friday, September 16, 2016 at 8:00PM
+Long Beach, CA
+	Saturday, September 17, 2016 at 11:00AM
+
+

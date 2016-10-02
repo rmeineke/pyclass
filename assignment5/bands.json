@@ -2,18 +2,36 @@
     {
         "band_name": "The Steel Wheels",
         "website_tour_url": "http://thesteelwheels.com/tour",
-        "bandsintown_id": "thesteelwheels"
+        "bandsintown_id": "thesteelwheels",
+        "scrape_function": null
     },
     
     {
         "band_name": "The Show Ponies",
         "website_tour_url": "http://www.theshowponies.com/tour/",
-        "bandsintown_id": "theshowponies"  
+        "bandsintown_id": "theshowponies",
+        "scrape_function": null
+    },
+    
+    {
+        "band_name": "T Sisters",
+        "website_tour_url": "http://tsisters.com/shows/",
+        "_comment": "This band has no BandsInTown info ... will need to parse w/ Beautiful Soup",
+        "bandsintown_id": null,
+        "scrape_function": "GetEventInfoForTSisters"
     },
     
     {
         "band_name": "Moonsville Collective",
         "website_tour_url": "http://www.moonsvillecollective.com/tour/",
-        "bandsintown_id": "moonsvillecollective"  
+        "bandsintown_id": "moonsvillecollective",
+        "scrape_function": null
+    },
+    
+    {
+        "band_name": "Nathaniel Rateliff and the Night Sweats",
+        "website_tour_url": "http://www.nathanielrateliff.com/tour/",
+        "bandsintown_id": "nathanielrateliff",
+        "scrape_function": null
     }
 ]

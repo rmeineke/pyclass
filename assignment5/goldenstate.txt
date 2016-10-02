@@ -1,0 +1,80 @@
+<ul class="events">
+                <li>
+			<strong class="date">Sep 10<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=107">Comedian Kathleen Madigan </a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Sep 15<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=93"><b>Art Garfunkel</b>: In Close-Up</a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Sep 18<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=99">The Mavericks</a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Sep 22<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=87">Iris Dement and Loudon Wainwright III</a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Sep 23<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=110"><b> Nick Offerman and Megan Mullally</b></a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Sep 24<Br/></strong>
+			<div class="text-holder">
+				<a href="http://goldenstatetheatre.showare.com/eventperformances.asp?evt=112"><b>Mick Fleetwood Blues Band</b></a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Sep 29<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=114"><b>Mary Chapin Carpenter</b></a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Sep 30<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=111"><b>Comedian Tracy Morgan</b></a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Oct 9<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=96"><b>Comedian Anjelah Johnson</b></a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Oct 21<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=115"><b>Ziggy Marley</b></a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Dec 9<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=95"><b>Comedian Lewis Black</b></a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Dec 14<Br/></strong>
+			<div class="text-holder">
+				<a href="https://goldenstatetheatre.showare.com/eventperformances.asp?evt=108"><b>John Prine w/ Ramblin Jack  Elliott</b></a>
+			</div>
+		</li>
+                <li>
+			<strong class="date">Dec 15<Br/></strong>
+			<div class="text-holder">
+				<a href="http://goldenstatetheatre.showare.com/eventperformances.asp?evt=113"><b>Jonny Lang</b></a>
+			</div>
+		</li>
+              </ul>

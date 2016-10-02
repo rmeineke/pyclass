@@ -1,0 +1,7 @@
+[
+    {
+        "venue_name": "The Rio Theatre",
+        "website_url": ["http://www.riotheatre.com/"],
+        "scrape_function": "RioTheatre"
+    }    
+]
