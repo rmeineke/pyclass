@@ -5671,3 +5671,95 @@ Your portion of the PGE Bill                $25.10
 --------------------------------------------------
 
 07/21/2016  -----  Jul 2016 Usage, Electric      $  25.10   $ 135.56
+
+10/15/2016  -----  This                          $ 100.25   $ 235.81
+                   is a 
+                   FOUR Line
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $ 336.06
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $ 436.31
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $ 536.56
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $ 636.80
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $ 737.04
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $ 837.29
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $ 937.54
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $1037.79
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $1138.04
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $1238.29
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $1338.54
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/23/2016  -----  Yearly well fee               $  50.49   $1389.03
+                   Paid to Monterey County
+                   Paid by electr. funds xfer
+
+10/24/2016  -----  Administrative Fee            $  50.25   $1439.28
+                   For testing purposes only
+
+10/24/2016  -----  This is a test                $  49.99   $1489.27
+                   entry ... should be
+                   three lines long.
+
+10/15/2016  -----  This test input               $ 100.25   $1589.52
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/15/2016  -----  This test input               $ 100.25   $1689.77
+                   is a 
+                   FOUR Line example
+                   Testing ... dummy text
+
+10/23/2016  -----  This is a test                $  49.99   $1739.76
+                   entry.
+
+10/24/2016  -----  Yearly well fee               $  49.99   $1789.75
+                   To: Monterey County Health Dept.
+                   Paid by electr. funds xfer
+
+10/25/2016  -----  Administrative test           $  49.75   $1839.50
+                   Three lines should be
+                   in the output
