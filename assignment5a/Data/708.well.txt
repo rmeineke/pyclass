@@ -7115,3 +7115,7 @@ Your portion of the PGE Bill                $13.02
 10/25/2016  -----  Administrative test           $  49.76   $1483.64
                    Three lines should be
                    in the output
+
+10/12/2016  -----  one                           $  50.02   $1533.66
+                   two
+                   three
