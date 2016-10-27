@@ -1,0 +1,374 @@
+Hi Robert,
+ 
+Very cool project.  I'm glad you are doing something useful.  "Well community"?  I wonder what that means.
+//// Community well ... we live in the 'country' ... four families share
+//// one well ... we have to split expenses, etc.
+//// I don't recommend it if it can be avoided ... homeowners associations, sigh.
+
+I'll make a few suggestions to make it more pythonic.  
+ 
+First, it is unusual to have anything in your global scope that is not useful to the person looking at the help.  It is best to put global stuff in the main function, where it is expected by python readers, if you can.
+ 
+Another suggestion is to avoid re, in favor python's str manipulations.  This is to de-purlize the code.  Sometimes you must use re, but I doubt if you need it here.  
+ 
+program.py
+ 
+ 
+import logging
+import sys
+import re
+import os
+import json
+import account
+ 
+
+//// Moved this into 'main'
+ 
+# set up for logging
+LEVELS = {'debug':logging.DEBUG,
+          'info':logging.INFO,
+          'warning':logging.WARNING,
+          'error':logging.ERROR,
+          'critical':logging.CRITICAL,
+         }
+if len(sys.argv) > 1:
+    level_name = sys.argv[1]
+    level = LEVELS.get(level_name, logging.NOTSET)
+    logging.basicConfig(level=level)
+ 
+    
+    
+def PromptForTransactionDate():
+ 
+You might want to check out the datetime dateutil libraries for this.
+
+http://stackoverflow.com/questions/25341945/check-if-string-has-date-any-format
+//// PERFECT! One of my bigger weaknesses in moving to Python is 
+//// knowing where to look .... I am so ignorant of what is available 
+//// in the standard library and in PyPI
+////
+//// this code has been updated to use the dateutil libraries 
+//// and a new IsDate(str) function
+    '''
+    ask the user for the date of this particular transaction
+    '''
+    while True:
+        date = input("\nDate of transaction (mm/dd/yyyy): ")
+        
+        # make sure the date is proper format
+        match = re.match('\d\d/\d\d/\d\d\d\d', date)
+        if match:
+            return date
+        else:
+ 
+Small logic point here:  you don't need 'else' after 'return'.  With return, you send away all but the 'else' case anyway.  Take it out and convince your self.  It saves an indentation to leave it out, improves readability, and it is good for you to have the simpler logic.
+//// else removed. 
+ 
+            print("Bad date format ... use mm/dd/yyyy");
+ 
+ 
+def PromptForTransactionDescription():
+    '''
+    need to have the specific type/description of
+    the transaction ... append each line to a list
+    '''
+    descr = []
+    while True:
+        resp = input('Enter description ["q" to quit]: ')
+        if resp == 'q':
+            return descr
+        descr.append(resp)
+    
+ 
+def PromptForTransactionAmount():
+    '''
+    looking for a dollar amount here
+    dollars and cents ... e.g., 202.13
+    '''
+    amt = 0
+ 
+This initialization of amt is not needed.
+//// agreed ... removed.
+
+    while True:
+        amt = input('\nEnter amount of transaction: $')
+        
+        #here is a brain-dead regex that works for the moment
+        match = re.match('\d*\.\d\d', amt)
+        
+        '''
+        some other ideas to try later
+ 
+Try using Python's facilities for this.  Here, for example:
+ 
+        try:
+            return = str(float(amt.replace('$','')))
+        except ValueError:
+            print('Bad ...)
+//// OK, I really like this! .... Updated.
+ 
+        money = re.compile('|'.join([
+          r'^\$?(\d*\.\d{1,2})$',  # e.g., $.50, .50, $1.50, $.5, .5
+          r'^\$?(\d+)$',           # e.g., $500, $5, 500, 5
+          r'^\$(\d+\.?)$',         # e.g., $5.
+        ]))
+        '''
+        
+        if match:
+            return amt    
+        else:
+            print('Bad amount format ... use ###.## ... for dollars and cents')
+            
+            
+def CalculateQuarterShare(amt):
+    '''
+    calculate one quarter of the entire fee
+    '''
+    amt = int(amt * .25)
+ 
+Here you have an int, so rounding didn't change the number, just made a float of it.  You could just have this as the one liner:
+ 
+    return round(amt * .25)
+//// FIXED.
+ 
+    return round(amt)
+    
+    
+def CalculateMasterAccountShare(qtr_share, amt):
+    '''
+    separate calculation for the 'master' account 
+    
+    this needs to be calculated slightly differently
+    as there may be a penny or two slop over based 
+    upon money being divided four ways and then rounded
+    '''
+    non_master_ttl = 3 * qtr_share
+    return amt - non_master_ttl
+    
+    
+def GetDataFilePath():
+    '''
+    look in the "/Data" directory for the accounts file.
+    return the full pathname ... or bomb out if not 
+    found
+    '''
+    data_file = os.path.join('.', 'Data', 'accounts.json')
+    if not os.path.exists(data_file):
+        logger.critical('accounts file -{}- not found ... exiting'.format(data_file))
+        exit()
+    return data_file
+    
+ 
+def main():
+ 
+    logger = logging.getLogger()
+    logger.debug('Entering Main')
+    
+    DEBUG = 0
+    if not DEBUG:
+        date = PromptForTransactionDate()
+        logger.debug('date: {}'.format(date))
+        descr = PromptForTransactionDescription()
+        logger.debug('descr: {}'.format(descr))
+        amount = PromptForTransactionAmount()
+        logger.debug('amount: {}'.format(amount))
+    else:
+        logger.debug('using test/debug input')
+        date = '10/15/2016'
+        descr = ['This test input', 'is a ', 'FOUR Line example', 'Testing ... dummy text']
+        amount = 401.00
+ 
+ 
+    # collect information from the user
+    transaction_amount = int(float(amount) * 100)
+    logger.debug('transaction_amount: {}'.format(transaction_amount))
+    
+    qtr_share = CalculateQuarterShare(transaction_amount)
+    logger.debug('qtr_share: {}'.format(qtr_share))
+    
+    master_account_share = CalculateMasterAccountShare(qtr_share, transaction_amount)
+    logger.debug('master_account_share: {}'.format(master_account_share))
+    
+    
+    # now that the basic information has been gathered we'll
+    # read the json file that contains the individual account
+    # information ...
+    
+    data_file = GetDataFilePath()
+    # open the file and read it in as json data
+    with open(data_file) as data_file:
+        data = json.load(data_file)
+ 
+    # instantiate the account objects
+    # then immediately call for the object to update itself
+    accts = []
+    for acct in data["accounts"]:
+        acct_obj = account.Account(acct['address'], acct['name'], acct['reads_in'], acct['master'], os.path.join('.', 'Data', acct['file']))
+        if acct_obj.master == 'no':
+            acct_obj.WriteAdminFeeToAccountFile(date, qtr_share, descr)
+        else:
+            acct_obj.WriteAdminFeeToAccountFile(date, master_account_share, descr)
+ 
+ 
+if __name__ == '__main__':
+    logging.basicConfig(level=logging.DEBUG)
+    main()
+ 
+ 
+ 
+'''
+This account.py module houses the Account class 
+and any account-related functionality
+'''
+ 
+import re
+import numpy
+ 
+I don't see that you use numpy?
+//// REMOVED .... had it in there for a reason at some point
+//// I'm finally learning to use git ... that can ne my next 
+//// learning exercise .... when did I add it in and why?
+////
+//// But it is gone for now.
+
+
+class Account:
+    '''
+    The Account class is populated once the main
+    program is run. All data is retrieved from the 
+    master account list which is in a JSON file in 
+    the /Data directory that should sit under the
+    current working directory
+    '''
+    
+    def __init__(self, address, name, reads_in, master, datafile):
+        self.address = address
+        self.name = name
+        self.readsin = reads_in
+        self.master = master
+        self.datafile = datafile
+        
+        # this will 'self-fire' a function
+        # that retrieves and initializes the current 
+        # account balance for this particular account object
+        self.SetCurrentBalance()
+    
+ 
+    def __str__(self):
+        return "name: %s\naddr: %s\nreads in: %s\nmaster?: %s\ncurrent_balance:%s" \
+                % (self.name, self.address, self.readsin, self.master, self.current_balance)
+ 
+You might like this version:
+return """name: %(name)s
+addr: %(address)s
+reads in: %(readsin)s
+master?: %(master)s
+current_balance:%s(current_balance)s""" % self.__dict__
+ 
+    
+    
+    def SetCurrentBalance(self):
+        '''
+        Parse each account data file and retrieve the 
+        account's current balance ... then set the 
+        object's balance property
+        
+        This function is self-fired when the object is first
+        initialized ... see the __init__
+        '''
+        
+        # open each file .... find the last balance in the account
+        # should look something like this ... 
+        # 
+        # 07/21/2016  -----  Jul 2016 Usage, Electric      $  14.28   $  65.77
+ 
+ 
+        # I always document my regexes as shown below ... 
+        # because I can never figure them out later without
+        # some kind of 'roadmap'
+ 
+While sometimes you really need regex, it is much easier to use straight Python if you can.  However, when you do use regex, if you add the flag re.VERBOSE when compiling, it will ignore spaces and anything after a '#' so you can document the regex in the regex itself.
+ 
+But, for example, this one could be (see below):
+ 
+        
+        # regex notes:
+        # ============
+        # dollar sign
+        # any number of characters
+        # decimal point
+        # 2 decimal characters (the 'cents')
+        # any number of spaces
+        # dollar sign
+        # any number of characters
+        # decimal point
+        # 2 decimal characters (the 'cents')
+        # the end of the string
+        
+        bal_regex = re.compile(r'\$.*.\d\d\s+\$(.*.\d\d)$') 
+        last_bal = 0
+ 
+        with open(self.datafile) as acct_file:
+            # if you know that the datafile is not too big,
+            # this makes sense; if it could be a long file,
+            # you might want to learn about file_obj.seek()
+            # and file_obj.tell()
+ 
+            backwards_lines = acct_file.readlines().reverse()
+            for line in backwards_lines:
+                if line.count("$") != 2:
+                     continue
+                parts = line.split():
+                if part[-2] != '$' or part[-4] != '$':
+                    continue
+                break                     
+        self.current_balance = int(float(part[-1]) * 100)
+ 
+                mo = bal_regex.search(line)
+                if mo:
+                    # be sure to strip any spaces from the match
+                    last_balance = mo.group(1).strip()
+ 
+        self.current_balance = int(float(last_balance) * 100)
+        
+          
+    def WriteAdminFeeToAccountFile(self, date, amount, transaction_detail):
+        '''
+        Append the fee information to the account object's data file
+        '''
+        
+        # open file and append the transaction to the end
+        with open(self.datafile, 'a') as acct_file:
+            # first line of transaction detail
+ 
+As a styleguide point,  it would help your reader if the identifier was transaction_details, since it is a list of details.
+//// Agreed ... fixed.
+            acct_file.write('\n{}  -----  {:30}${:7.2f}   ${:7.2f}\n'. \
+                        format(date, transaction_detail[0], (amount/100), \
+                        ((self.current_balance + amount)/100)))
+            
+            # remaining lines of the transaction detail            
+            if (len(transaction_detail) > 1): 
+ 
+That len line isn't necessary.  If the slice is the empty list, that's ok.  Then the for loop will slide right through.
+//// Thanks ... fixed
+                for line in transaction_detail[1:]:
+                    acct_file.write('                   {}\n'.format(line))
+            
+        
+        # legacy perl code ... for example output spacing
+        """
+        printf {$OUT} "%s  -----  $mo $yr Usage, Electric      \$%7.2f   \$%7.2f\n",
+        $self->get_date_last_read(), $self->get_bill(), $self->get_bal();
+        """
+ 
+I hope you find this helpful.
+//// Are you kidding me?! Your feedback is invaluable in helping me to be 
+//// more Pythonic. I appreciate all your help and have enjoyed to class 
+//// very much.
+////
+//// Robert M.
+
+Marilyn
+ 
+Back to list

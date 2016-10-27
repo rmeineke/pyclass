@@ -1,0 +1,34 @@
+{"accounts":[
+    {
+        "address" : 704,
+        "name" : "Gene and Toniann Schultz",
+        "file" : "704.well.txt",
+        "reads_in" : "gallons",
+        "master" : "no"
+    },
+
+    {
+        "address" : 706,
+        "name" : "Terry and Maureen Cain",
+        "file" : "706.well.txt",
+        "reads_in" : "cubic feet",
+        "master" : "no"
+    },
+
+    {
+        "address" : 708,
+        "name" : "Robert and Stephanie Meineke",
+        "file" : "708.well.txt",
+        "reads_in" : "cubic feet",
+        "master" : "yes"
+    },
+
+
+    {
+        "address" : 710,
+        "name" : "Lazaro and Irma Olivares",
+        "file" : "710.well.txt",
+        "reads_in" : "cubic feet",
+        "master" : "no"
+    }
+]}
