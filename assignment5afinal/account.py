@@ -28,9 +28,14 @@ class Account:
     
 
     def __str__(self):
-        return "name: %s\naddr: %s\nreads in: %s\nmaster?: %s\ncurrent_balance:%s" \
-                % (self.name, self.address, self.readsin, self.master, self.current_balance)
-    
+        return """
+        name: %(name)s
+        addr: %(address)s
+        reads in: %(readsin)s
+        master?: %(master)s
+        file: %(datafile)s
+        bal: %(current_balance)s
+        """ % self.__dict__
     
     def SetCurrentBalance(self):
         '''

@@ -1,5 +1,6 @@
 Hi Robert,
  
+
 Very cool project.  I'm glad you are doing something useful.  "Well community"?  I wonder what that means.
 //// Community well ... we live in the 'country' ... four families share
 //// one well ... we have to split expenses, etc.
@@ -257,6 +258,7 @@ class Account:
     def __str__(self):
         return "name: %s\naddr: %s\nreads in: %s\nmaster?: %s\ncurrent_balance:%s" \
                 % (self.name, self.address, self.readsin, self.master, self.current_balance)
+
  
 You might like this version:
 return """name: %(name)s
@@ -265,6 +267,7 @@ reads in: %(readsin)s
 master?: %(master)s
 current_balance:%s(current_balance)s""" % self.__dict__
  
+////// Much nicer ... updated.
     
     
     def SetCurrentBalance(self):
@@ -287,7 +290,9 @@ current_balance:%s(current_balance)s""" % self.__dict__
         # because I can never figure them out later without
         # some kind of 'roadmap'
  
-While sometimes you really need regex, it is much easier to use straight Python if you can.  However, when you do use regex, if you add the flag re.VERBOSE when compiling, it will ignore spaces and anything after a '#' so you can document the regex in the regex itself.
+While sometimes you really need regex, it is much easier to use straight Python if you can.  
+However, when you do use regex, if you add the flag re.VERBOSE when compiling, it will ignore spaces and anything after a '#' so you can document the regex in the regex itself.
+///// re.VERBOSE ... good to know!
  
 But, for example, this one could be (see below):
  
@@ -308,6 +313,10 @@ But, for example, this one could be (see below):
         bal_regex = re.compile(r'\$.*.\d\d\s+\$(.*.\d\d)$') 
         last_bal = 0
  
+ 
+//////
+////// updated to use your 'read in reverse' suggestion
+
         with open(self.datafile) as acct_file:
             # if you know that the datafile is not too big,
             # this makes sense; if it could be a long file,
@@ -363,8 +372,8 @@ That len line isn't necessary.  If the slice is the empty list, that's ok.  Then
         """
  
 I hope you find this helpful.
-//// Are you kidding me?! Your feedback is invaluable in helping me to be 
-//// more Pythonic. I appreciate all your help and have enjoyed to class 
+//// Most helpful. Your feedback is invaluable in helping me to be 
+//// more Pythonic. I appreciate all your help and have enjoyed the class 
 //// very much.
 ////
 //// Robert M.

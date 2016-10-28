@@ -99,7 +99,7 @@ def main():
     logger = logging.getLogger()
     logger.debug('Entering Main')
     
-    DEBUG = 0
+    DEBUG = 1
     if not DEBUG:
         date = PromptForTransactionDate()
         logger.debug('date: {}'.format(date))
@@ -143,7 +143,7 @@ def main():
             acct_obj.WriteAdminFeeToAccountFile(date, qtr_share, descr)
         else:
             acct_obj.WriteAdminFeeToAccountFile(date, master_account_share, descr)
- 
+        print(acct_obj)
  
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
