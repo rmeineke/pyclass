@@ -46,17 +46,54 @@ class Account:
         This function is self-fired when the object is first
         initialized ... see the __init__
         '''
+        
+        # open each file .... find the last balance in the account
+        # should look something like this ... 
+        # 
+        # 07/21/2016  -----  Jul 2016 Usage, Electric      $  14.28   $  65.77
+
+
+        # I always document my regexes as shown below ... 
+        # because I can never figure them out later without
+        # some kind of 'roadmap'
+        
+        # regex notes:
+        # ============
+        # dollar sign
+        # any number of characters
+        # decimal point
+        # 2 decimal characters (the 'cents')
+        # any number of spaces
+        # dollar sign
+        # any number of characters
+        # decimal point
+        # 2 decimal characters (the 'cents')
+        # the end of the string
+        
+        
+        '''
+        bal_regex = re.compile(r'\$.*.\d\d\s+\$(.*.\d\d)$') 
+        last_bal = 0
         with open(self.datafile) as acct_file:
-            backwards_lines = acct_file.readlines()
-            backwards_lines.reverse()
+            for line in acct_file:
+                line = line.strip()
+                mo = bal_regex.search(line)
+                if mo:
+                    # be sure to strip any spaces from the match
+                    last_balance = mo.group(1).strip()
+
+        self.current_balance = int(float(last_balance) * 100)
+        '''
+        with open(self.datafile) as acct_file:
+            backwards_lines = acct_file.readlines().reverse()
             for line in backwards_lines:
                 if line.count("$") != 2:
                      continue
                 parts = line.split()
-                if parts[-2] != '$' or parts[-4] != '$':
+                if part[-2] != '$' or part[-4] != '$':
                     continue
-                break           
-            self.current_balance = int(float(parts[-1]) * 100)
+                break                     
+            self.current_balance = int(float(part[-1]) * 100)
 
           
     def WriteAdminFeeToAccountFile(self, date, amount, transaction_details):

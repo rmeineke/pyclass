@@ -99,7 +99,7 @@ def main():
     logger = logging.getLogger()
     logger.debug('Entering Main')
     
-    DEBUG = 1
+    DEBUG = 0
     if not DEBUG:
         date = PromptForTransactionDate()
         logger.debug('date: {}'.format(date))
@@ -143,87 +143,8 @@ def main():
             acct_obj.WriteAdminFeeToAccountFile(date, qtr_share, descr)
         else:
             acct_obj.WriteAdminFeeToAccountFile(date, master_account_share, descr)
-        print(acct_obj)
+
  
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
     main()
-
-
-'''
-////// with test/debug data
-
-[05:21] robertm -- /home/robertm/programming/pyclass/assignment5a $ python3 program.py debug
-DEBUG:root:Entering Main
-DEBUG:root:using test/debug input
-DEBUG:root:transaction_amount: 40100
-DEBUG:root:qtr_share: 10025
-DEBUG:root:master_account_share: 10025
-[05:21] robertm -- /home/robertm/programming/pyclass/assignment5a $ python3 program.py critical
-[05:21] robertm -- /home/robertm/programming/pyclass/assignment5a $ 
-
-
-
-
-////// interactive sessions
-
-[05:22] robertm -- /home/robertm/programming/pyclass/assignment5a $ python3 program.py debug
-DEBUG:root:Entering Main
-
-Date of transaction (mm/dd/yyyy): dkfj
-Bad date format ... use mm/dd/yyyy
-
-Date of transaction (mm/dd/yyyy): djjdjdjdjd;
-Bad date format ... use mm/dd/yyyy
-
-Date of transaction (mm/dd/yyyy): 10/23/2016
-DEBUG:root:date: 10/23/2016
-Enter description ["q" to quit]: This is a test
-Enter description ["q" to quit]: entry.
-Enter description ["q" to quit]: q
-DEBUG:root:descr: ['This is a test', 'entry.']
-DEBUG:root:<class 'list'>
-
-Enter amount of transaction: $kdfj
-Bad amount format ... use ###.## ... for dollars and cents
-
-Enter amount of transaction: $lsls
-Bad amount format ... use ###.## ... for dollars and cents
-
-Enter amount of transaction: $199.99
-DEBUG:root:amount: 199.99
-DEBUG:root:transaction_amount: 19999
-DEBUG:root:qtr_share: 4999
-DEBUG:root:master_account_share: 5002
-[05:23] robertm -- /home/robertm/programming/pyclass/assignment5a $ python3 program.py critical
-
-Date of transaction (mm/dd/yyyy): dkfj
-Bad date format ... use mm/dd/yyyy
-
-Date of transaction (mm/dd/yyyy): 10/24/2016
-Enter description ["q" to quit]: Yearly well fee 
-Enter description ["q" to quit]: To: Monterey County Health Dept.
-Enter description ["q" to quit]: Paid by electr. funds xfer
-Enter description ["q" to quit]: q
-
-Enter amount of transaction: $dksfj
-Bad amount format ... use ###.## ... for dollars and cents
-
-Enter amount of transaction: $jdjd
-Bad amount format ... use ###.## ... for dollars and cents
-
-Enter amount of transaction: $199.99
-[05:24] robertm -- /home/robertm/programming/pyclass/assignment5a $ 
-[05:24] robertm -- /home/robertm/programming/pyclass/assignment5a $ python3 program.py critical
-
-Date of transaction (mm/dd/yyyy): 10/25/2016
-Enter description ["q" to quit]: Administrative test
-Enter description ["q" to quit]: Three lines should be
-Enter description ["q" to quit]: in the output
-Enter description ["q" to quit]: q
-
-Enter amount of transaction: $199.01
-[05:26] robertm -- /home/robertm/programming/pyclass/assignment5a $ 
-
-
-'''
