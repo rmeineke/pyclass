@@ -3,8 +3,6 @@ This account.py module houses the Account class
 and any account-related functionality
 '''
 
-import re
-
 class Account:
     '''
     The Account class is populated once the main
