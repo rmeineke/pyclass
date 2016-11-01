@@ -5,13 +5,15 @@ import os
 import json
 import account
 from dateutil.parser import parse
-    
+     
+     
 def IsDate(str):
     try: 
         parse(str)
         return True
     except ValueError:
         return False
+    
     
 def PromptForTransactionDate():
     '''
